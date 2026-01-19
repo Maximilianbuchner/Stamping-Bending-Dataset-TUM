@@ -1,0 +1,5001 @@
+ID;Coil;Prozessabfolge;Ausklinkungen;Richten
+0001;C1A;simultan;aktiviert;deaktiviert
+0002;C1A;simultan;aktiviert;deaktiviert
+0003;C1A;simultan;aktiviert;deaktiviert
+0004;C1A;simultan;aktiviert;deaktiviert
+0005;C1A;simultan;aktiviert;deaktiviert
+0006;C1A;simultan;aktiviert;deaktiviert
+0007;C1A;simultan;aktiviert;deaktiviert
+0008;C1A;simultan;aktiviert;deaktiviert
+0009;C1A;simultan;aktiviert;deaktiviert
+0010;C1A;simultan;aktiviert;deaktiviert
+0011;C1A;simultan;aktiviert;deaktiviert
+0012;C1A;simultan;aktiviert;deaktiviert
+0013;C1A;simultan;aktiviert;deaktiviert
+0014;C1A;simultan;aktiviert;deaktiviert
+0015;C1A;simultan;aktiviert;deaktiviert
+0016;C1A;simultan;aktiviert;deaktiviert
+0017;C1A;simultan;aktiviert;deaktiviert
+0018;C1A;simultan;aktiviert;deaktiviert
+0019;C1A;simultan;aktiviert;deaktiviert
+0020;C1A;simultan;aktiviert;deaktiviert
+0021;C1A;simultan;aktiviert;deaktiviert
+0022;C1A;simultan;aktiviert;deaktiviert
+0023;C1A;simultan;aktiviert;deaktiviert
+0024;C1A;simultan;aktiviert;deaktiviert
+0025;C1A;simultan;aktiviert;deaktiviert
+0026;C1A;simultan;aktiviert;aktiviert
+0027;C1A;simultan;aktiviert;aktiviert
+0028;C1A;simultan;aktiviert;aktiviert
+0029;C1A;simultan;aktiviert;aktiviert
+0030;C1A;simultan;aktiviert;aktiviert
+0031;C1A;simultan;aktiviert;aktiviert
+0032;C1A;simultan;aktiviert;aktiviert
+0033;C1A;simultan;aktiviert;aktiviert
+0034;C1A;simultan;aktiviert;aktiviert
+0035;C1A;simultan;aktiviert;aktiviert
+0036;C1A;simultan;aktiviert;aktiviert
+0037;C1A;simultan;aktiviert;aktiviert
+0038;C1A;simultan;aktiviert;aktiviert
+0039;C1A;simultan;aktiviert;aktiviert
+0040;C1A;simultan;aktiviert;aktiviert
+0041;C1A;simultan;aktiviert;aktiviert
+0042;C1A;simultan;aktiviert;aktiviert
+0043;C1A;simultan;aktiviert;aktiviert
+0044;C1A;simultan;aktiviert;aktiviert
+0045;C1A;simultan;aktiviert;aktiviert
+0046;C1A;simultan;aktiviert;aktiviert
+0047;C1A;simultan;aktiviert;aktiviert
+0048;C1A;simultan;aktiviert;aktiviert
+0049;C1A;simultan;aktiviert;aktiviert
+0050;C1A;simultan;aktiviert;aktiviert
+0051;C1A;rechts, links;aktiviert;aktiviert
+0052;C1A;rechts, links;aktiviert;aktiviert
+0053;C1A;rechts, links;aktiviert;aktiviert
+0054;C1A;rechts, links;aktiviert;aktiviert
+0055;C1A;rechts, links;aktiviert;aktiviert
+0056;C1A;rechts, links;aktiviert;aktiviert
+0057;C1A;rechts, links;aktiviert;aktiviert
+0058;C1A;rechts, links;aktiviert;aktiviert
+0059;C1A;rechts, links;aktiviert;aktiviert
+0060;C1A;rechts, links;aktiviert;aktiviert
+0061;C1A;rechts, links;aktiviert;aktiviert
+0062;C1A;rechts, links;aktiviert;aktiviert
+0063;C1A;rechts, links;aktiviert;aktiviert
+0064;C1A;rechts, links;aktiviert;aktiviert
+0065;C1A;rechts, links;aktiviert;aktiviert
+0066;C1A;rechts, links;aktiviert;aktiviert
+0067;C1A;rechts, links;aktiviert;aktiviert
+0068;C1A;rechts, links;aktiviert;aktiviert
+0069;C1A;rechts, links;aktiviert;aktiviert
+0070;C1A;rechts, links;aktiviert;aktiviert
+0071;C1A;rechts, links;aktiviert;aktiviert
+0072;C1A;rechts, links;aktiviert;aktiviert
+0073;C1A;rechts, links;aktiviert;aktiviert
+0074;C1A;rechts, links;aktiviert;aktiviert
+0075;C1A;rechts, links;aktiviert;aktiviert
+0076;C1A;rechts, links;aktiviert;deaktiviert
+0077;C1A;rechts, links;aktiviert;deaktiviert
+0078;C1A;rechts, links;aktiviert;deaktiviert
+0079;C1A;rechts, links;aktiviert;deaktiviert
+0080;C1A;rechts, links;aktiviert;deaktiviert
+0081;C1A;rechts, links;aktiviert;deaktiviert
+0082;C1A;rechts, links;aktiviert;deaktiviert
+0083;C1A;rechts, links;aktiviert;deaktiviert
+0084;C1A;rechts, links;aktiviert;deaktiviert
+0085;C1A;rechts, links;aktiviert;deaktiviert
+0086;C1A;rechts, links;aktiviert;deaktiviert
+0087;C1A;rechts, links;aktiviert;deaktiviert
+0088;C1A;rechts, links;aktiviert;deaktiviert
+0089;C1A;rechts, links;aktiviert;deaktiviert
+0090;C1A;rechts, links;aktiviert;deaktiviert
+0091;C1A;rechts, links;aktiviert;deaktiviert
+0092;C1A;rechts, links;aktiviert;deaktiviert
+0093;C1A;rechts, links;aktiviert;deaktiviert
+0094;C1A;rechts, links;aktiviert;deaktiviert
+0095;C1A;rechts, links;aktiviert;deaktiviert
+0096;C1A;rechts, links;aktiviert;deaktiviert
+0097;C1A;rechts, links;aktiviert;deaktiviert
+0098;C1A;rechts, links;aktiviert;deaktiviert
+0099;C1A;rechts, links;aktiviert;deaktiviert
+0100;C1A;rechts, links;aktiviert;deaktiviert
+0101;C1A;links, rechts;aktiviert;deaktiviert
+0102;C1A;links, rechts;aktiviert;deaktiviert
+0103;C1A;links, rechts;aktiviert;deaktiviert
+0104;C1A;links, rechts;aktiviert;deaktiviert
+0105;C1A;links, rechts;aktiviert;deaktiviert
+0106;C1A;links, rechts;aktiviert;deaktiviert
+0107;C1A;links, rechts;aktiviert;deaktiviert
+0108;C1A;links, rechts;aktiviert;deaktiviert
+0109;C1A;links, rechts;aktiviert;deaktiviert
+0110;C1A;links, rechts;aktiviert;deaktiviert
+0111;C1A;links, rechts;aktiviert;deaktiviert
+0112;C1A;links, rechts;aktiviert;deaktiviert
+0113;C1A;links, rechts;aktiviert;deaktiviert
+0114;C1A;links, rechts;aktiviert;deaktiviert
+0115;C1A;links, rechts;aktiviert;deaktiviert
+0116;C1A;links, rechts;aktiviert;deaktiviert
+0117;C1A;links, rechts;aktiviert;deaktiviert
+0118;C1A;links, rechts;aktiviert;deaktiviert
+0119;C1A;links, rechts;aktiviert;deaktiviert
+0120;C1A;links, rechts;aktiviert;deaktiviert
+0121;C1A;links, rechts;aktiviert;deaktiviert
+0122;C1A;links, rechts;aktiviert;deaktiviert
+0123;C1A;links, rechts;aktiviert;deaktiviert
+0124;C1A;links, rechts;aktiviert;deaktiviert
+0125;C1A;links, rechts;aktiviert;deaktiviert
+0126;C1A;links, rechts;aktiviert;aktiviert
+0127;C1A;links, rechts;aktiviert;aktiviert
+0128;C1A;links, rechts;aktiviert;aktiviert
+0129;C1A;links, rechts;aktiviert;aktiviert
+0130;C1A;links, rechts;aktiviert;aktiviert
+0131;C1A;links, rechts;aktiviert;aktiviert
+0132;C1A;links, rechts;aktiviert;aktiviert
+0133;C1A;links, rechts;aktiviert;aktiviert
+0134;C1A;links, rechts;aktiviert;aktiviert
+0135;C1A;links, rechts;aktiviert;aktiviert
+0136;C1A;links, rechts;aktiviert;aktiviert
+0137;C1A;links, rechts;aktiviert;aktiviert
+0138;C1A;links, rechts;aktiviert;aktiviert
+0139;C1A;links, rechts;aktiviert;aktiviert
+0140;C1A;links, rechts;aktiviert;aktiviert
+0141;C1A;links, rechts;aktiviert;aktiviert
+0142;C1A;links, rechts;aktiviert;aktiviert
+0143;C1A;links, rechts;aktiviert;aktiviert
+0144;C1A;links, rechts;aktiviert;aktiviert
+0145;C1A;links, rechts;aktiviert;aktiviert
+0146;C1A;links, rechts;aktiviert;aktiviert
+0147;C1A;links, rechts;aktiviert;aktiviert
+0148;C1A;links, rechts;aktiviert;aktiviert
+0149;C1A;links, rechts;aktiviert;aktiviert
+0150;C1A;links, rechts;aktiviert;aktiviert
+0151;C1A;rechts - halten, links;aktiviert;aktiviert
+0152;C1A;rechts - halten, links;aktiviert;aktiviert
+0153;C1A;rechts - halten, links;aktiviert;aktiviert
+0154;C1A;rechts - halten, links;aktiviert;aktiviert
+0155;C1A;rechts - halten, links;aktiviert;aktiviert
+0156;C1A;rechts - halten, links;aktiviert;aktiviert
+0157;C1A;rechts - halten, links;aktiviert;aktiviert
+0158;C1A;rechts - halten, links;aktiviert;aktiviert
+0159;C1A;rechts - halten, links;aktiviert;aktiviert
+0160;C1A;rechts - halten, links;aktiviert;aktiviert
+0161;C1A;rechts - halten, links;aktiviert;aktiviert
+0162;C1A;rechts - halten, links;aktiviert;aktiviert
+0163;C1A;rechts - halten, links;aktiviert;aktiviert
+0164;C1A;rechts - halten, links;aktiviert;aktiviert
+0165;C1A;rechts - halten, links;aktiviert;aktiviert
+0166;C1A;rechts - halten, links;aktiviert;aktiviert
+0167;C1A;rechts - halten, links;aktiviert;aktiviert
+0168;C1A;rechts - halten, links;aktiviert;aktiviert
+0169;C1A;rechts - halten, links;aktiviert;aktiviert
+0170;C1A;rechts - halten, links;aktiviert;aktiviert
+0171;C1A;rechts - halten, links;aktiviert;aktiviert
+0172;C1A;rechts - halten, links;aktiviert;aktiviert
+0173;C1A;rechts - halten, links;aktiviert;aktiviert
+0174;C1A;rechts - halten, links;aktiviert;aktiviert
+0175;C1A;rechts - halten, links;aktiviert;aktiviert
+0176;C1A;rechts - halten, links;aktiviert;deaktiviert
+0177;C1A;rechts - halten, links;aktiviert;deaktiviert
+0178;C1A;rechts - halten, links;aktiviert;deaktiviert
+0179;C1A;rechts - halten, links;aktiviert;deaktiviert
+0180;C1A;rechts - halten, links;aktiviert;deaktiviert
+0181;C1A;rechts - halten, links;aktiviert;deaktiviert
+0182;C1A;rechts - halten, links;aktiviert;deaktiviert
+0183;C1A;rechts - halten, links;aktiviert;deaktiviert
+0184;C1A;rechts - halten, links;aktiviert;deaktiviert
+0185;C1A;rechts - halten, links;aktiviert;deaktiviert
+0186;C1A;rechts - halten, links;aktiviert;deaktiviert
+0187;C1A;rechts - halten, links;aktiviert;deaktiviert
+0188;C1A;rechts - halten, links;aktiviert;deaktiviert
+0189;C1A;rechts - halten, links;aktiviert;deaktiviert
+0190;C1A;rechts - halten, links;aktiviert;deaktiviert
+0191;C1A;rechts - halten, links;aktiviert;deaktiviert
+0192;C1A;rechts - halten, links;aktiviert;deaktiviert
+0193;C1A;rechts - halten, links;aktiviert;deaktiviert
+0194;C1A;rechts - halten, links;aktiviert;deaktiviert
+0195;C1A;rechts - halten, links;aktiviert;deaktiviert
+0196;C1A;rechts - halten, links;aktiviert;deaktiviert
+0197;C1A;rechts - halten, links;aktiviert;deaktiviert
+0198;C1A;rechts - halten, links;aktiviert;deaktiviert
+0199;C1A;rechts - halten, links;aktiviert;deaktiviert
+0200;C1A;rechts - halten, links;aktiviert;deaktiviert
+0201;C1A;links - halten, rechts;aktiviert;deaktiviert
+0202;C1A;links - halten, rechts;aktiviert;deaktiviert
+0203;C1A;links - halten, rechts;aktiviert;deaktiviert
+0204;C1A;links - halten, rechts;aktiviert;deaktiviert
+0205;C1A;links - halten, rechts;aktiviert;deaktiviert
+0206;C1A;links - halten, rechts;aktiviert;deaktiviert
+0207;C1A;links - halten, rechts;aktiviert;deaktiviert
+0208;C1A;links - halten, rechts;aktiviert;deaktiviert
+0209;C1A;links - halten, rechts;aktiviert;deaktiviert
+0210;C1A;links - halten, rechts;aktiviert;deaktiviert
+0211;C1A;links - halten, rechts;aktiviert;deaktiviert
+0212;C1A;links - halten, rechts;aktiviert;deaktiviert
+0213;C1A;links - halten, rechts;aktiviert;deaktiviert
+0214;C1A;links - halten, rechts;aktiviert;deaktiviert
+0215;C1A;links - halten, rechts;aktiviert;deaktiviert
+0216;C1A;links - halten, rechts;aktiviert;deaktiviert
+0217;C1A;links - halten, rechts;aktiviert;deaktiviert
+0218;C1A;links - halten, rechts;aktiviert;deaktiviert
+0219;C1A;links - halten, rechts;aktiviert;deaktiviert
+0220;C1A;links - halten, rechts;aktiviert;deaktiviert
+0221;C1A;links - halten, rechts;aktiviert;deaktiviert
+0222;C1A;links - halten, rechts;aktiviert;deaktiviert
+0223;C1A;links - halten, rechts;aktiviert;deaktiviert
+0224;C1A;links - halten, rechts;aktiviert;deaktiviert
+0225;C1A;links - halten, rechts;aktiviert;deaktiviert
+0226;C1A;links - halten, rechts;aktiviert;aktiviert
+0227;C1A;links - halten, rechts;aktiviert;aktiviert
+0228;C1A;links - halten, rechts;aktiviert;aktiviert
+0229;C1A;links - halten, rechts;aktiviert;aktiviert
+0230;C1A;links - halten, rechts;aktiviert;aktiviert
+0231;C1A;links - halten, rechts;aktiviert;aktiviert
+0232;C1A;links - halten, rechts;aktiviert;aktiviert
+0233;C1A;links - halten, rechts;aktiviert;aktiviert
+0234;C1A;links - halten, rechts;aktiviert;aktiviert
+0235;C1A;links - halten, rechts;aktiviert;aktiviert
+0236;C1A;links - halten, rechts;aktiviert;aktiviert
+0237;C1A;links - halten, rechts;aktiviert;aktiviert
+0238;C1A;links - halten, rechts;aktiviert;aktiviert
+0239;C1A;links - halten, rechts;aktiviert;aktiviert
+0240;C1A;links - halten, rechts;aktiviert;aktiviert
+0241;C1A;links - halten, rechts;aktiviert;aktiviert
+0242;C1A;links - halten, rechts;aktiviert;aktiviert
+0243;C1A;links - halten, rechts;aktiviert;aktiviert
+0244;C1A;links - halten, rechts;aktiviert;aktiviert
+0245;C1A;links - halten, rechts;aktiviert;aktiviert
+0246;C1A;links - halten, rechts;aktiviert;aktiviert
+0247;C1A;links - halten, rechts;aktiviert;aktiviert
+0248;C1A;links - halten, rechts;aktiviert;aktiviert
+0249;C1A;links - halten, rechts;aktiviert;aktiviert
+0250;C1A;links - halten, rechts;aktiviert;aktiviert
+0251;C1A;simultan;deaktiviert;aktiviert
+0252;C1A;simultan;deaktiviert;aktiviert
+0253;C1A;simultan;deaktiviert;aktiviert
+0254;C1A;simultan;deaktiviert;aktiviert
+0255;C1A;simultan;deaktiviert;aktiviert
+0256;C1A;simultan;deaktiviert;aktiviert
+0257;C1A;simultan;deaktiviert;aktiviert
+0258;C1A;simultan;deaktiviert;aktiviert
+0259;C1A;simultan;deaktiviert;aktiviert
+0260;C1A;simultan;deaktiviert;aktiviert
+0261;C1A;simultan;deaktiviert;aktiviert
+0262;C1A;simultan;deaktiviert;aktiviert
+0263;C1A;simultan;deaktiviert;aktiviert
+0264;C1A;simultan;deaktiviert;aktiviert
+0265;C1A;simultan;deaktiviert;aktiviert
+0266;C1A;simultan;deaktiviert;aktiviert
+0267;C1A;simultan;deaktiviert;aktiviert
+0268;C1A;simultan;deaktiviert;aktiviert
+0269;C1A;simultan;deaktiviert;aktiviert
+0270;C1A;simultan;deaktiviert;aktiviert
+0271;C1A;simultan;deaktiviert;aktiviert
+0272;C1A;simultan;deaktiviert;aktiviert
+0273;C1A;simultan;deaktiviert;aktiviert
+0274;C1A;simultan;deaktiviert;aktiviert
+0275;C1A;simultan;deaktiviert;aktiviert
+0276;C1A;simultan;deaktiviert;deaktiviert
+0277;C1A;simultan;deaktiviert;deaktiviert
+0278;C1A;simultan;deaktiviert;deaktiviert
+0279;C1A;simultan;deaktiviert;deaktiviert
+0280;C1A;simultan;deaktiviert;deaktiviert
+0281;C1A;simultan;deaktiviert;deaktiviert
+0282;C1A;simultan;deaktiviert;deaktiviert
+0283;C1A;simultan;deaktiviert;deaktiviert
+0284;C1A;simultan;deaktiviert;deaktiviert
+0285;C1A;simultan;deaktiviert;deaktiviert
+0286;C1A;simultan;deaktiviert;deaktiviert
+0287;C1A;simultan;deaktiviert;deaktiviert
+0288;C1A;simultan;deaktiviert;deaktiviert
+0289;C1A;simultan;deaktiviert;deaktiviert
+0290;C1A;simultan;deaktiviert;deaktiviert
+0291;C1A;simultan;deaktiviert;deaktiviert
+0292;C1A;simultan;deaktiviert;deaktiviert
+0293;C1A;simultan;deaktiviert;deaktiviert
+0294;C1A;simultan;deaktiviert;deaktiviert
+0295;C1A;simultan;deaktiviert;deaktiviert
+0296;C1A;simultan;deaktiviert;deaktiviert
+0297;C1A;simultan;deaktiviert;deaktiviert
+0298;C1A;simultan;deaktiviert;deaktiviert
+0299;C1A;simultan;deaktiviert;deaktiviert
+0300;C1A;simultan;deaktiviert;deaktiviert
+0301;C1A;rechts, links;deaktiviert;deaktiviert
+0302;C1A;rechts, links;deaktiviert;deaktiviert
+0303;C1A;rechts, links;deaktiviert;deaktiviert
+0304;C1A;rechts, links;deaktiviert;deaktiviert
+0305;C1A;rechts, links;deaktiviert;deaktiviert
+0306;C1A;rechts, links;deaktiviert;deaktiviert
+0307;C1A;rechts, links;deaktiviert;deaktiviert
+0308;C1A;rechts, links;deaktiviert;deaktiviert
+0309;C1A;rechts, links;deaktiviert;deaktiviert
+0310;C1A;rechts, links;deaktiviert;deaktiviert
+0311;C1A;rechts, links;deaktiviert;deaktiviert
+0312;C1A;rechts, links;deaktiviert;deaktiviert
+0313;C1A;rechts, links;deaktiviert;deaktiviert
+0314;C1A;rechts, links;deaktiviert;deaktiviert
+0315;C1A;rechts, links;deaktiviert;deaktiviert
+0316;C1A;rechts, links;deaktiviert;deaktiviert
+0317;C1A;rechts, links;deaktiviert;deaktiviert
+0318;C1A;rechts, links;deaktiviert;deaktiviert
+0319;C1A;rechts, links;deaktiviert;deaktiviert
+0320;C1A;rechts, links;deaktiviert;deaktiviert
+0321;C1A;rechts, links;deaktiviert;deaktiviert
+0322;C1A;rechts, links;deaktiviert;deaktiviert
+0323;C1A;rechts, links;deaktiviert;deaktiviert
+0324;C1A;rechts, links;deaktiviert;deaktiviert
+0325;C1A;rechts, links;deaktiviert;deaktiviert
+0326;C1A;rechts, links;deaktiviert;aktiviert
+0327;C1A;rechts, links;deaktiviert;aktiviert
+0328;C1A;rechts, links;deaktiviert;aktiviert
+0329;C1A;rechts, links;deaktiviert;aktiviert
+0330;C1A;rechts, links;deaktiviert;aktiviert
+0331;C1A;rechts, links;deaktiviert;aktiviert
+0332;C1A;rechts, links;deaktiviert;aktiviert
+0333;C1A;rechts, links;deaktiviert;aktiviert
+0334;C1A;rechts, links;deaktiviert;aktiviert
+0335;C1A;rechts, links;deaktiviert;aktiviert
+0336;C1A;rechts, links;deaktiviert;aktiviert
+0337;C1A;rechts, links;deaktiviert;aktiviert
+0338;C1A;rechts, links;deaktiviert;aktiviert
+0339;C1A;rechts, links;deaktiviert;aktiviert
+0340;C1A;rechts, links;deaktiviert;aktiviert
+0341;C1A;rechts, links;deaktiviert;aktiviert
+0342;C1A;rechts, links;deaktiviert;aktiviert
+0343;C1A;rechts, links;deaktiviert;aktiviert
+0344;C1A;rechts, links;deaktiviert;aktiviert
+0345;C1A;rechts, links;deaktiviert;aktiviert
+0346;C1A;rechts, links;deaktiviert;aktiviert
+0347;C1A;rechts, links;deaktiviert;aktiviert
+0348;C1A;rechts, links;deaktiviert;aktiviert
+0349;C1A;rechts, links;deaktiviert;aktiviert
+0350;C1A;rechts, links;deaktiviert;aktiviert
+0351;C1A;links, rechts;deaktiviert;aktiviert
+0352;C1A;links, rechts;deaktiviert;aktiviert
+0353;C1A;links, rechts;deaktiviert;aktiviert
+0354;C1A;links, rechts;deaktiviert;aktiviert
+0355;C1A;links, rechts;deaktiviert;aktiviert
+0356;C1A;links, rechts;deaktiviert;aktiviert
+0357;C1A;links, rechts;deaktiviert;aktiviert
+0358;C1A;links, rechts;deaktiviert;aktiviert
+0359;C1A;links, rechts;deaktiviert;aktiviert
+0360;C1A;links, rechts;deaktiviert;aktiviert
+0361;C1A;links, rechts;deaktiviert;aktiviert
+0362;C1A;links, rechts;deaktiviert;aktiviert
+0363;C1A;links, rechts;deaktiviert;aktiviert
+0364;C1A;links, rechts;deaktiviert;aktiviert
+0365;C1A;links, rechts;deaktiviert;aktiviert
+0366;C1A;links, rechts;deaktiviert;aktiviert
+0367;C1A;links, rechts;deaktiviert;aktiviert
+0368;C1A;links, rechts;deaktiviert;aktiviert
+0369;C1A;links, rechts;deaktiviert;aktiviert
+0370;C1A;links, rechts;deaktiviert;aktiviert
+0371;C1A;links, rechts;deaktiviert;aktiviert
+0372;C1A;links, rechts;deaktiviert;aktiviert
+0373;C1A;links, rechts;deaktiviert;aktiviert
+0374;C1A;links, rechts;deaktiviert;aktiviert
+0375;C1A;links, rechts;deaktiviert;aktiviert
+0376;C1A;links, rechts;deaktiviert;deaktiviert
+0377;C1A;links, rechts;deaktiviert;deaktiviert
+0378;C1A;links, rechts;deaktiviert;deaktiviert
+0379;C1A;links, rechts;deaktiviert;deaktiviert
+0380;C1A;links, rechts;deaktiviert;deaktiviert
+0381;C1A;links, rechts;deaktiviert;deaktiviert
+0382;C1A;links, rechts;deaktiviert;deaktiviert
+0383;C1A;links, rechts;deaktiviert;deaktiviert
+0384;C1A;links, rechts;deaktiviert;deaktiviert
+0385;C1A;links, rechts;deaktiviert;deaktiviert
+0386;C1A;links, rechts;deaktiviert;deaktiviert
+0387;C1A;links, rechts;deaktiviert;deaktiviert
+0388;C1A;links, rechts;deaktiviert;deaktiviert
+0389;C1A;links, rechts;deaktiviert;deaktiviert
+0390;C1A;links, rechts;deaktiviert;deaktiviert
+0391;C1A;links, rechts;deaktiviert;deaktiviert
+0392;C1A;links, rechts;deaktiviert;deaktiviert
+0393;C1A;links, rechts;deaktiviert;deaktiviert
+0394;C1A;links, rechts;deaktiviert;deaktiviert
+0395;C1A;links, rechts;deaktiviert;deaktiviert
+0396;C1A;links, rechts;deaktiviert;deaktiviert
+0397;C1A;links, rechts;deaktiviert;deaktiviert
+0398;C1A;links, rechts;deaktiviert;deaktiviert
+0399;C1A;links, rechts;deaktiviert;deaktiviert
+0400;C1A;links, rechts;deaktiviert;deaktiviert
+0401;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0402;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0403;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0404;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0405;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0406;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0407;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0408;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0409;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0410;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0411;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0412;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0413;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0414;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0415;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0416;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0417;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0418;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0419;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0420;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0421;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0422;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0423;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0424;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0425;C1A;rechts - halten, links;deaktiviert;deaktiviert
+0426;C1A;rechts - halten, links;deaktiviert;aktiviert
+0427;C1A;rechts - halten, links;deaktiviert;aktiviert
+0428;C1A;rechts - halten, links;deaktiviert;aktiviert
+0429;C1A;rechts - halten, links;deaktiviert;aktiviert
+0430;C1A;rechts - halten, links;deaktiviert;aktiviert
+0431;C1A;rechts - halten, links;deaktiviert;aktiviert
+0432;C1A;rechts - halten, links;deaktiviert;aktiviert
+0433;C1A;rechts - halten, links;deaktiviert;aktiviert
+0434;C1A;rechts - halten, links;deaktiviert;aktiviert
+0435;C1A;rechts - halten, links;deaktiviert;aktiviert
+0436;C1A;rechts - halten, links;deaktiviert;aktiviert
+0437;C1A;rechts - halten, links;deaktiviert;aktiviert
+0438;C1A;rechts - halten, links;deaktiviert;aktiviert
+0439;C1A;rechts - halten, links;deaktiviert;aktiviert
+0440;C1A;rechts - halten, links;deaktiviert;aktiviert
+0441;C1A;rechts - halten, links;deaktiviert;aktiviert
+0442;C1A;rechts - halten, links;deaktiviert;aktiviert
+0443;C1A;rechts - halten, links;deaktiviert;aktiviert
+0444;C1A;rechts - halten, links;deaktiviert;aktiviert
+0445;C1A;rechts - halten, links;deaktiviert;aktiviert
+0446;C1A;rechts - halten, links;deaktiviert;aktiviert
+0447;C1A;rechts - halten, links;deaktiviert;aktiviert
+0448;C1A;rechts - halten, links;deaktiviert;aktiviert
+0449;C1A;rechts - halten, links;deaktiviert;aktiviert
+0450;C1A;rechts - halten, links;deaktiviert;aktiviert
+0451;C1A;links - halten, rechts;deaktiviert;aktiviert
+0452;C1A;links - halten, rechts;deaktiviert;aktiviert
+0453;C1A;links - halten, rechts;deaktiviert;aktiviert
+0454;C1A;links - halten, rechts;deaktiviert;aktiviert
+0455;C1A;links - halten, rechts;deaktiviert;aktiviert
+0456;C1A;links - halten, rechts;deaktiviert;aktiviert
+0457;C1A;links - halten, rechts;deaktiviert;aktiviert
+0458;C1A;links - halten, rechts;deaktiviert;aktiviert
+0459;C1A;links - halten, rechts;deaktiviert;aktiviert
+0460;C1A;links - halten, rechts;deaktiviert;aktiviert
+0461;C1A;links - halten, rechts;deaktiviert;aktiviert
+0462;C1A;links - halten, rechts;deaktiviert;aktiviert
+0463;C1A;links - halten, rechts;deaktiviert;aktiviert
+0464;C1A;links - halten, rechts;deaktiviert;aktiviert
+0465;C1A;links - halten, rechts;deaktiviert;aktiviert
+0466;C1A;links - halten, rechts;deaktiviert;aktiviert
+0467;C1A;links - halten, rechts;deaktiviert;aktiviert
+0468;C1A;links - halten, rechts;deaktiviert;aktiviert
+0469;C1A;links - halten, rechts;deaktiviert;aktiviert
+0470;C1A;links - halten, rechts;deaktiviert;aktiviert
+0471;C1A;links - halten, rechts;deaktiviert;aktiviert
+0472;C1A;links - halten, rechts;deaktiviert;aktiviert
+0473;C1A;links - halten, rechts;deaktiviert;aktiviert
+0474;C1A;links - halten, rechts;deaktiviert;aktiviert
+0475;C1A;links - halten, rechts;deaktiviert;aktiviert
+0476;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0477;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0478;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0479;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0480;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0481;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0482;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0483;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0484;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0485;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0486;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0487;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0488;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0489;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0490;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0491;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0492;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0493;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0494;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0495;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0496;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0497;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0498;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0499;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0500;C1A;links - halten, rechts;deaktiviert;deaktiviert
+0501;C1A;simultan;aktiviert;deaktiviert
+0502;C1A;simultan;aktiviert;deaktiviert
+0503;C1A;simultan;aktiviert;deaktiviert
+0504;C1A;simultan;aktiviert;deaktiviert
+0505;C1A;simultan;aktiviert;deaktiviert
+0506;C1A;simultan;aktiviert;deaktiviert
+0507;C1A;simultan;aktiviert;deaktiviert
+0508;C1A;simultan;aktiviert;deaktiviert
+0509;C1A;simultan;aktiviert;deaktiviert
+0510;C1A;simultan;aktiviert;deaktiviert
+0511;C1A;simultan;aktiviert;deaktiviert
+0512;C1A;simultan;aktiviert;deaktiviert
+0513;C1A;simultan;aktiviert;deaktiviert
+0514;C1A;simultan;aktiviert;deaktiviert
+0515;C1A;simultan;aktiviert;deaktiviert
+0516;C1A;simultan;aktiviert;deaktiviert
+0517;C1A;simultan;aktiviert;deaktiviert
+0518;C1A;simultan;aktiviert;deaktiviert
+0519;C1A;simultan;aktiviert;deaktiviert
+0520;C1A;simultan;aktiviert;deaktiviert
+0521;C1A;simultan;aktiviert;deaktiviert
+0522;C1A;simultan;aktiviert;deaktiviert
+0523;C1A;simultan;aktiviert;deaktiviert
+0524;C1A;simultan;aktiviert;deaktiviert
+0525;C1A;simultan;aktiviert;deaktiviert
+0526;C1A;simultan;aktiviert;aktiviert
+0527;C1A;simultan;aktiviert;aktiviert
+0528;C1A;simultan;aktiviert;aktiviert
+0529;C1A;simultan;aktiviert;aktiviert
+0530;C1A;simultan;aktiviert;aktiviert
+0531;C1A;simultan;aktiviert;aktiviert
+0532;C1A;simultan;aktiviert;aktiviert
+0533;C1A;simultan;aktiviert;aktiviert
+0534;C1A;simultan;aktiviert;aktiviert
+0535;C1A;simultan;aktiviert;aktiviert
+0536;C1A;simultan;aktiviert;aktiviert
+0537;C1A;simultan;aktiviert;aktiviert
+0538;C1A;simultan;aktiviert;aktiviert
+0539;C1A;simultan;aktiviert;aktiviert
+0540;C1A;simultan;aktiviert;aktiviert
+0541;C1A;simultan;aktiviert;aktiviert
+0542;C1A;simultan;aktiviert;aktiviert
+0543;C1A;simultan;aktiviert;aktiviert
+0544;C1A;simultan;aktiviert;aktiviert
+0545;C1A;simultan;aktiviert;aktiviert
+0546;C1A;simultan;aktiviert;aktiviert
+0547;C1A;simultan;aktiviert;aktiviert
+0548;C1A;simultan;aktiviert;aktiviert
+0549;C1A;simultan;aktiviert;aktiviert
+0550;C1A;simultan;aktiviert;aktiviert
+0551;C1A;rechts, links;aktiviert;aktiviert
+0552;C1A;rechts, links;aktiviert;aktiviert
+0553;C1A;rechts, links;aktiviert;aktiviert
+0554;C1A;rechts, links;aktiviert;aktiviert
+0555;C1A;rechts, links;aktiviert;aktiviert
+0556;C1A;rechts, links;aktiviert;aktiviert
+0557;C1A;rechts, links;aktiviert;aktiviert
+0558;C1A;rechts, links;aktiviert;aktiviert
+0559;C1A;rechts, links;aktiviert;aktiviert
+0560;C1A;rechts, links;aktiviert;aktiviert
+0561;C1A;rechts, links;aktiviert;aktiviert
+0562;C1A;rechts, links;aktiviert;aktiviert
+0563;C1A;rechts, links;aktiviert;aktiviert
+0564;C1A;rechts, links;aktiviert;aktiviert
+0565;C1A;rechts, links;aktiviert;aktiviert
+0566;C1A;rechts, links;aktiviert;aktiviert
+0567;C1A;rechts, links;aktiviert;aktiviert
+0568;C1A;rechts, links;aktiviert;aktiviert
+0569;C1A;rechts, links;aktiviert;aktiviert
+0570;C1A;rechts, links;aktiviert;aktiviert
+0571;C1A;rechts, links;aktiviert;aktiviert
+0572;C1A;rechts, links;aktiviert;aktiviert
+0573;C1A;rechts, links;aktiviert;aktiviert
+0574;C1A;rechts, links;aktiviert;aktiviert
+0575;C1A;rechts, links;aktiviert;aktiviert
+0576;C1A;rechts, links;aktiviert;deaktiviert
+0577;C1A;rechts, links;aktiviert;deaktiviert
+0578;C1A;rechts, links;aktiviert;deaktiviert
+0579;C1A;rechts, links;aktiviert;deaktiviert
+0580;C1A;rechts, links;aktiviert;deaktiviert
+0581;C1A;rechts, links;aktiviert;deaktiviert
+0582;C1A;rechts, links;aktiviert;deaktiviert
+0583;C1A;rechts, links;aktiviert;deaktiviert
+0584;C1A;rechts, links;aktiviert;deaktiviert
+0585;C1A;rechts, links;aktiviert;deaktiviert
+0586;C1A;rechts, links;aktiviert;deaktiviert
+0587;C1A;rechts, links;aktiviert;deaktiviert
+0588;C1A;rechts, links;aktiviert;deaktiviert
+0589;C1A;rechts, links;aktiviert;deaktiviert
+0590;C1A;rechts, links;aktiviert;deaktiviert
+0591;C1A;rechts, links;aktiviert;deaktiviert
+0592;C1A;rechts, links;aktiviert;deaktiviert
+0593;C1A;rechts, links;aktiviert;deaktiviert
+0594;C1A;rechts, links;aktiviert;deaktiviert
+0595;C1A;rechts, links;aktiviert;deaktiviert
+0596;C1A;rechts, links;aktiviert;deaktiviert
+0597;C1A;rechts, links;aktiviert;deaktiviert
+0598;C1A;rechts, links;aktiviert;deaktiviert
+0599;C1A;rechts, links;aktiviert;deaktiviert
+0600;C1A;rechts, links;aktiviert;deaktiviert
+0601;C1A;links, rechts;aktiviert;deaktiviert
+0602;C1A;links, rechts;aktiviert;deaktiviert
+0603;C1A;links, rechts;aktiviert;deaktiviert
+0604;C1A;links, rechts;aktiviert;deaktiviert
+0605;C1A;links, rechts;aktiviert;deaktiviert
+0606;C1A;links, rechts;aktiviert;deaktiviert
+0607;C1A;links, rechts;aktiviert;deaktiviert
+0608;C1A;links, rechts;aktiviert;deaktiviert
+0609;C1A;links, rechts;aktiviert;deaktiviert
+0610;C1A;links, rechts;aktiviert;deaktiviert
+0611;C1A;links, rechts;aktiviert;deaktiviert
+0612;C1A;links, rechts;aktiviert;deaktiviert
+0613;C1A;links, rechts;aktiviert;deaktiviert
+0614;C1A;links, rechts;aktiviert;deaktiviert
+0615;C1A;links, rechts;aktiviert;deaktiviert
+0616;C1A;links, rechts;aktiviert;deaktiviert
+0617;C1A;links, rechts;aktiviert;deaktiviert
+0618;C1A;links, rechts;aktiviert;deaktiviert
+0619;C1A;links, rechts;aktiviert;deaktiviert
+0620;C1A;links, rechts;aktiviert;deaktiviert
+0621;C1A;links, rechts;aktiviert;deaktiviert
+0622;C1A;links, rechts;aktiviert;deaktiviert
+0623;C1A;links, rechts;aktiviert;deaktiviert
+0624;C1A;links, rechts;aktiviert;deaktiviert
+0625;C1A;links, rechts;aktiviert;deaktiviert
+0626;C1A;links, rechts;aktiviert;aktiviert
+0627;C1A;links, rechts;aktiviert;aktiviert
+0628;C1A;links, rechts;aktiviert;aktiviert
+0629;C1A;links, rechts;aktiviert;aktiviert
+0630;C1A;links, rechts;aktiviert;aktiviert
+0631;C1A;links, rechts;aktiviert;aktiviert
+0632;C1A;links, rechts;aktiviert;aktiviert
+0633;C1A;links, rechts;aktiviert;aktiviert
+0634;C1A;links, rechts;aktiviert;aktiviert
+0635;C1A;links, rechts;aktiviert;aktiviert
+0636;C1A;links, rechts;aktiviert;aktiviert
+0637;C1A;links, rechts;aktiviert;aktiviert
+0638;C1A;links, rechts;aktiviert;aktiviert
+0639;C1A;links, rechts;aktiviert;aktiviert
+0640;C1A;links, rechts;aktiviert;aktiviert
+0641;C1A;links, rechts;aktiviert;aktiviert
+0642;C1A;links, rechts;aktiviert;aktiviert
+0643;C1A;links, rechts;aktiviert;aktiviert
+0644;C1A;links, rechts;aktiviert;aktiviert
+0645;C1A;links, rechts;aktiviert;aktiviert
+0646;C1A;links, rechts;aktiviert;aktiviert
+0647;C1A;links, rechts;aktiviert;aktiviert
+0648;C1A;links, rechts;aktiviert;aktiviert
+0649;C1A;links, rechts;aktiviert;aktiviert
+0650;C1A;links, rechts;aktiviert;aktiviert
+0651;C1A;rechts - halten, links;aktiviert;aktiviert
+0652;C1A;rechts - halten, links;aktiviert;aktiviert
+0653;C1A;rechts - halten, links;aktiviert;aktiviert
+0654;C1A;rechts - halten, links;aktiviert;aktiviert
+0655;C1A;rechts - halten, links;aktiviert;aktiviert
+0656;C1A;rechts - halten, links;aktiviert;aktiviert
+0657;C1A;rechts - halten, links;aktiviert;aktiviert
+0658;C1A;rechts - halten, links;aktiviert;aktiviert
+0659;C1A;rechts - halten, links;aktiviert;aktiviert
+0660;C1A;rechts - halten, links;aktiviert;aktiviert
+0661;C1A;rechts - halten, links;aktiviert;aktiviert
+0662;C1A;rechts - halten, links;aktiviert;aktiviert
+0663;C1A;rechts - halten, links;aktiviert;aktiviert
+0664;C1A;rechts - halten, links;aktiviert;aktiviert
+0665;C1A;rechts - halten, links;aktiviert;aktiviert
+0666;C1A;rechts - halten, links;aktiviert;aktiviert
+0667;C1A;rechts - halten, links;aktiviert;aktiviert
+0668;C1A;rechts - halten, links;aktiviert;aktiviert
+0669;C1A;rechts - halten, links;aktiviert;aktiviert
+0670;C1A;rechts - halten, links;aktiviert;aktiviert
+0671;C1A;rechts - halten, links;aktiviert;aktiviert
+0672;C1A;rechts - halten, links;aktiviert;aktiviert
+0673;C1A;rechts - halten, links;aktiviert;aktiviert
+0674;C1A;rechts - halten, links;aktiviert;aktiviert
+0675;C1A;rechts - halten, links;aktiviert;aktiviert
+0676;C1A;rechts - halten, links;aktiviert;deaktiviert
+0677;C1A;rechts - halten, links;aktiviert;deaktiviert
+0678;C1A;rechts - halten, links;aktiviert;deaktiviert
+0679;C1A;rechts - halten, links;aktiviert;deaktiviert
+0680;C1A;rechts - halten, links;aktiviert;deaktiviert
+0681;C1A;rechts - halten, links;aktiviert;deaktiviert
+0682;C1A;rechts - halten, links;aktiviert;deaktiviert
+0683;C1A;rechts - halten, links;aktiviert;deaktiviert
+0684;C1A;rechts - halten, links;aktiviert;deaktiviert
+0685;C1A;rechts - halten, links;aktiviert;deaktiviert
+0686;C1A;rechts - halten, links;aktiviert;deaktiviert
+0687;C1A;rechts - halten, links;aktiviert;deaktiviert
+0688;C1A;rechts - halten, links;aktiviert;deaktiviert
+0689;C1A;rechts - halten, links;aktiviert;deaktiviert
+0690;C1A;rechts - halten, links;aktiviert;deaktiviert
+0691;C1A;rechts - halten, links;aktiviert;deaktiviert
+0692;C1A;rechts - halten, links;aktiviert;deaktiviert
+0693;C1A;rechts - halten, links;aktiviert;deaktiviert
+0694;C1A;rechts - halten, links;aktiviert;deaktiviert
+0695;C1A;rechts - halten, links;aktiviert;deaktiviert
+0696;C1A;rechts - halten, links;aktiviert;deaktiviert
+0697;C1A;rechts - halten, links;aktiviert;deaktiviert
+0698;C1A;rechts - halten, links;aktiviert;deaktiviert
+0699;C1A;rechts - halten, links;aktiviert;deaktiviert
+0700;C1A;rechts - halten, links;aktiviert;deaktiviert
+0701;C1A;links - halten, rechts;aktiviert;deaktiviert
+0702;C1A;links - halten, rechts;aktiviert;deaktiviert
+0703;C1A;links - halten, rechts;aktiviert;deaktiviert
+0704;C1A;links - halten, rechts;aktiviert;deaktiviert
+0705;C1A;links - halten, rechts;aktiviert;deaktiviert
+0706;C1A;links - halten, rechts;aktiviert;deaktiviert
+0707;C1A;links - halten, rechts;aktiviert;deaktiviert
+0708;C1A;links - halten, rechts;aktiviert;deaktiviert
+0709;C1A;links - halten, rechts;aktiviert;deaktiviert
+0710;C1A;links - halten, rechts;aktiviert;deaktiviert
+0711;C1A;links - halten, rechts;aktiviert;deaktiviert
+0712;C1A;links - halten, rechts;aktiviert;deaktiviert
+0713;C1A;links - halten, rechts;aktiviert;deaktiviert
+0714;C1A;links - halten, rechts;aktiviert;deaktiviert
+0715;C1A;links - halten, rechts;aktiviert;deaktiviert
+0716;C1A;links - halten, rechts;aktiviert;deaktiviert
+0717;C1A;links - halten, rechts;aktiviert;deaktiviert
+0718;C1A;links - halten, rechts;aktiviert;deaktiviert
+0719;C1A;links - halten, rechts;aktiviert;deaktiviert
+0720;C1A;links - halten, rechts;aktiviert;deaktiviert
+0721;C1A;links - halten, rechts;aktiviert;deaktiviert
+0722;C1A;links - halten, rechts;aktiviert;deaktiviert
+0723;C1A;links - halten, rechts;aktiviert;deaktiviert
+0724;C1A;links - halten, rechts;aktiviert;deaktiviert
+0725;C1A;links - halten, rechts;aktiviert;deaktiviert
+0726;C1A;links - halten, rechts;aktiviert;aktiviert
+0727;C1A;links - halten, rechts;aktiviert;aktiviert
+0728;C1A;links - halten, rechts;aktiviert;aktiviert
+0729;C1A;links - halten, rechts;aktiviert;aktiviert
+0730;C1A;links - halten, rechts;aktiviert;aktiviert
+0731;C1A;links - halten, rechts;aktiviert;aktiviert
+0732;C1A;links - halten, rechts;aktiviert;aktiviert
+0733;C1A;links - halten, rechts;aktiviert;aktiviert
+0734;C1A;links - halten, rechts;aktiviert;aktiviert
+0735;C1A;links - halten, rechts;aktiviert;aktiviert
+0736;C1A;links - halten, rechts;aktiviert;aktiviert
+0737;C1A;links - halten, rechts;aktiviert;aktiviert
+0738;C1A;links - halten, rechts;aktiviert;aktiviert
+0739;C1A;links - halten, rechts;aktiviert;aktiviert
+0740;C1A;links - halten, rechts;aktiviert;aktiviert
+0741;C1A;links - halten, rechts;aktiviert;aktiviert
+0742;C1A;links - halten, rechts;aktiviert;aktiviert
+0743;C1A;links - halten, rechts;aktiviert;aktiviert
+0744;C1A;links - halten, rechts;aktiviert;aktiviert
+0745;C1A;links - halten, rechts;aktiviert;aktiviert
+0746;C1A;links - halten, rechts;aktiviert;aktiviert
+0747;C1A;links - halten, rechts;aktiviert;aktiviert
+0748;C1A;links - halten, rechts;aktiviert;aktiviert
+0749;C1A;links - halten, rechts;aktiviert;aktiviert
+0750;C1A;links - halten, rechts;aktiviert;aktiviert
+0751;C1A;simultan;deaktiviert;aktiviert
+0752;C1A;simultan;deaktiviert;aktiviert
+0753;C1A;simultan;deaktiviert;aktiviert
+0754;C1A;simultan;deaktiviert;aktiviert
+0755;C1A;simultan;deaktiviert;aktiviert
+0756;C1A;simultan;deaktiviert;aktiviert
+0757;C1A;simultan;deaktiviert;aktiviert
+0758;C1A;simultan;deaktiviert;aktiviert
+0759;C1A;simultan;deaktiviert;aktiviert
+0760;C1A;simultan;deaktiviert;aktiviert
+0761;C1A;simultan;deaktiviert;aktiviert
+0762;C1A;simultan;deaktiviert;aktiviert
+0763;C1A;simultan;deaktiviert;aktiviert
+0764;C1A;simultan;deaktiviert;aktiviert
+0765;C1A;simultan;deaktiviert;aktiviert
+0766;C1A;simultan;deaktiviert;aktiviert
+0767;C1A;simultan;deaktiviert;aktiviert
+0768;C1A;simultan;deaktiviert;aktiviert
+0769;C1A;simultan;deaktiviert;aktiviert
+0770;C1A;simultan;deaktiviert;aktiviert
+0771;C1A;simultan;deaktiviert;aktiviert
+0772;C1A;simultan;deaktiviert;aktiviert
+0773;C1A;simultan;deaktiviert;aktiviert
+0774;C1A;simultan;deaktiviert;aktiviert
+0775;C1A;simultan;deaktiviert;aktiviert
+0776;C1A;simultan;deaktiviert;deaktiviert
+0777;C1A;simultan;deaktiviert;deaktiviert
+0778;C1A;simultan;deaktiviert;deaktiviert
+0779;C1A;simultan;deaktiviert;deaktiviert
+0780;C1A;simultan;deaktiviert;deaktiviert
+0781;C1A;simultan;deaktiviert;deaktiviert
+0782;C1A;simultan;deaktiviert;deaktiviert
+0783;C1A;simultan;deaktiviert;deaktiviert
+0784;C1A;simultan;deaktiviert;deaktiviert
+0785;C1A;simultan;deaktiviert;deaktiviert
+0786;C1A;simultan;deaktiviert;deaktiviert
+0787;C1A;simultan;deaktiviert;deaktiviert
+0788;C1A;simultan;deaktiviert;deaktiviert
+0789;C1A;simultan;deaktiviert;deaktiviert
+0790;C1A;simultan;deaktiviert;deaktiviert
+0791;C1A;simultan;deaktiviert;deaktiviert
+0792;C1A;simultan;deaktiviert;deaktiviert
+0793;C1A;simultan;deaktiviert;deaktiviert
+0794;C1A;simultan;deaktiviert;deaktiviert
+0795;C1A;simultan;deaktiviert;deaktiviert
+0796;C1A;simultan;deaktiviert;deaktiviert
+0797;C1A;simultan;deaktiviert;deaktiviert
+0798;C1A;simultan;deaktiviert;deaktiviert
+0799;C1A;simultan;deaktiviert;deaktiviert
+0800;C1A;simultan;deaktiviert;deaktiviert
+0801;C1A;rechts, links;deaktiviert;deaktiviert
+0802;C1A;rechts, links;deaktiviert;deaktiviert
+0803;C1A;rechts, links;deaktiviert;deaktiviert
+0804;C1A;rechts, links;deaktiviert;deaktiviert
+0805;C1A;rechts, links;deaktiviert;deaktiviert
+0806;C1A;rechts, links;deaktiviert;deaktiviert
+0807;C1A;rechts, links;deaktiviert;deaktiviert
+0808;C1A;rechts, links;deaktiviert;deaktiviert
+0809;C1A;rechts, links;deaktiviert;deaktiviert
+0810;C1A;rechts, links;deaktiviert;deaktiviert
+0811;C1A;rechts, links;deaktiviert;deaktiviert
+0812;C1A;rechts, links;deaktiviert;deaktiviert
+0813;C1A;rechts, links;deaktiviert;deaktiviert
+0814;C1A;rechts, links;deaktiviert;deaktiviert
+0815;C1A;rechts, links;deaktiviert;deaktiviert
+0816;C1A;rechts, links;deaktiviert;deaktiviert
+0817;C1A;rechts, links;deaktiviert;deaktiviert
+0818;C1A;rechts, links;deaktiviert;deaktiviert
+0819;C1A;rechts, links;deaktiviert;deaktiviert
+0820;C1A;rechts, links;deaktiviert;deaktiviert
+0821;C1A;rechts, links;deaktiviert;deaktiviert
+0822;C1A;rechts, links;deaktiviert;deaktiviert
+0823;C1A;rechts, links;deaktiviert;deaktiviert
+0824;C1A;rechts, links;deaktiviert;deaktiviert
+0825;C1A;rechts, links;deaktiviert;deaktiviert
+0826;C1A;rechts, links;deaktiviert;aktiviert
+0827;C1A;rechts, links;deaktiviert;aktiviert
+0828;C1A;rechts, links;deaktiviert;aktiviert
+0829;C1A;rechts, links;deaktiviert;aktiviert
+0830;C1A;rechts, links;deaktiviert;aktiviert
+0831;C1A;rechts, links;deaktiviert;aktiviert
+0832;C1A;rechts, links;deaktiviert;aktiviert
+0833;C1A;rechts, links;deaktiviert;aktiviert
+0834;C1A;rechts, links;deaktiviert;aktiviert
+0835;C1M;rechts, links;deaktiviert;aktiviert
+0836;C1M;rechts, links;deaktiviert;aktiviert
+0837;C1M;rechts, links;deaktiviert;aktiviert
+0838;C1M;rechts, links;deaktiviert;aktiviert
+0839;C1M;rechts, links;deaktiviert;aktiviert
+0840;C1M;rechts, links;deaktiviert;aktiviert
+0841;C1M;rechts, links;deaktiviert;aktiviert
+0842;C1M;rechts, links;deaktiviert;aktiviert
+0843;C1M;rechts, links;deaktiviert;aktiviert
+0844;C1M;rechts, links;deaktiviert;aktiviert
+0845;C1M;rechts, links;deaktiviert;aktiviert
+0846;C1M;rechts, links;deaktiviert;aktiviert
+0847;C1M;rechts, links;deaktiviert;aktiviert
+0848;C1M;rechts, links;deaktiviert;aktiviert
+0849;C1M;rechts, links;deaktiviert;aktiviert
+0850;C1M;rechts, links;deaktiviert;aktiviert
+0851;C1M;links, rechts;deaktiviert;aktiviert
+0852;C1M;links, rechts;deaktiviert;aktiviert
+0853;C1M;links, rechts;deaktiviert;aktiviert
+0854;C1M;links, rechts;deaktiviert;aktiviert
+0855;C1M;links, rechts;deaktiviert;aktiviert
+0856;C1M;links, rechts;deaktiviert;aktiviert
+0857;C1M;links, rechts;deaktiviert;aktiviert
+0858;C1M;links, rechts;deaktiviert;aktiviert
+0859;C1M;links, rechts;deaktiviert;aktiviert
+0860;C1M;links, rechts;deaktiviert;aktiviert
+0861;C1M;links, rechts;deaktiviert;aktiviert
+0862;C1M;links, rechts;deaktiviert;aktiviert
+0863;C1M;links, rechts;deaktiviert;aktiviert
+0864;C1M;links, rechts;deaktiviert;aktiviert
+0865;C1M;links, rechts;deaktiviert;aktiviert
+0866;C1M;links, rechts;deaktiviert;aktiviert
+0867;C1M;links, rechts;deaktiviert;aktiviert
+0868;C1M;links, rechts;deaktiviert;aktiviert
+0869;C1M;links, rechts;deaktiviert;aktiviert
+0870;C1M;links, rechts;deaktiviert;aktiviert
+0871;C1M;links, rechts;deaktiviert;aktiviert
+0872;C1M;links, rechts;deaktiviert;aktiviert
+0873;C1M;links, rechts;deaktiviert;aktiviert
+0874;C1M;links, rechts;deaktiviert;aktiviert
+0875;C1M;links, rechts;deaktiviert;aktiviert
+0876;C1M;links, rechts;deaktiviert;deaktiviert
+0877;C1M;links, rechts;deaktiviert;deaktiviert
+0878;C1M;links, rechts;deaktiviert;deaktiviert
+0879;C1M;links, rechts;deaktiviert;deaktiviert
+0880;C1M;links, rechts;deaktiviert;deaktiviert
+0881;C1M;links, rechts;deaktiviert;deaktiviert
+0882;C1M;links, rechts;deaktiviert;deaktiviert
+0883;C1M;links, rechts;deaktiviert;deaktiviert
+0884;C1M;links, rechts;deaktiviert;deaktiviert
+0885;C1M;links, rechts;deaktiviert;deaktiviert
+0886;C1M;links, rechts;deaktiviert;deaktiviert
+0887;C1M;links, rechts;deaktiviert;deaktiviert
+0888;C1M;links, rechts;deaktiviert;deaktiviert
+0889;C1M;links, rechts;deaktiviert;deaktiviert
+0890;C1M;links, rechts;deaktiviert;deaktiviert
+0891;C1M;links, rechts;deaktiviert;deaktiviert
+0892;C1M;links, rechts;deaktiviert;deaktiviert
+0893;C1M;links, rechts;deaktiviert;deaktiviert
+0894;C1M;links, rechts;deaktiviert;deaktiviert
+0895;C1M;links, rechts;deaktiviert;deaktiviert
+0896;C1M;links, rechts;deaktiviert;deaktiviert
+0897;C1M;links, rechts;deaktiviert;deaktiviert
+0898;C1M;links, rechts;deaktiviert;deaktiviert
+0899;C1M;links, rechts;deaktiviert;deaktiviert
+0900;C1M;links, rechts;deaktiviert;deaktiviert
+0901;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0902;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0903;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0904;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0905;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0906;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0907;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0908;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0909;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0910;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0911;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0912;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0913;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0914;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0915;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0916;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0917;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0918;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0919;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0920;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0921;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0922;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0923;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0924;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0925;C1M;rechts - halten, links;deaktiviert;deaktiviert
+0926;C1M;rechts - halten, links;deaktiviert;aktiviert
+0927;C1M;rechts - halten, links;deaktiviert;aktiviert
+0928;C1M;rechts - halten, links;deaktiviert;aktiviert
+0929;C1M;rechts - halten, links;deaktiviert;aktiviert
+0930;C1M;rechts - halten, links;deaktiviert;aktiviert
+0931;C1M;rechts - halten, links;deaktiviert;aktiviert
+0932;C1M;rechts - halten, links;deaktiviert;aktiviert
+0933;C1M;rechts - halten, links;deaktiviert;aktiviert
+0934;C1M;rechts - halten, links;deaktiviert;aktiviert
+0935;C1M;rechts - halten, links;deaktiviert;aktiviert
+0936;C1M;rechts - halten, links;deaktiviert;aktiviert
+0937;C1M;rechts - halten, links;deaktiviert;aktiviert
+0938;C1M;rechts - halten, links;deaktiviert;aktiviert
+0939;C1M;rechts - halten, links;deaktiviert;aktiviert
+0940;C1M;rechts - halten, links;deaktiviert;aktiviert
+0941;C1M;rechts - halten, links;deaktiviert;aktiviert
+0942;C1M;rechts - halten, links;deaktiviert;aktiviert
+0943;C1M;rechts - halten, links;deaktiviert;aktiviert
+0944;C1M;rechts - halten, links;deaktiviert;aktiviert
+0945;C1M;rechts - halten, links;deaktiviert;aktiviert
+0946;C1M;rechts - halten, links;deaktiviert;aktiviert
+0947;C1M;rechts - halten, links;deaktiviert;aktiviert
+0948;C1M;rechts - halten, links;deaktiviert;aktiviert
+0949;C1M;rechts - halten, links;deaktiviert;aktiviert
+0950;C1M;rechts - halten, links;deaktiviert;aktiviert
+0951;C1M;links - halten, rechts;deaktiviert;aktiviert
+0952;C1M;links - halten, rechts;deaktiviert;aktiviert
+0953;C1M;links - halten, rechts;deaktiviert;aktiviert
+0954;C1M;links - halten, rechts;deaktiviert;aktiviert
+0955;C1M;links - halten, rechts;deaktiviert;aktiviert
+0956;C1M;links - halten, rechts;deaktiviert;aktiviert
+0957;C1M;links - halten, rechts;deaktiviert;aktiviert
+0958;C1M;links - halten, rechts;deaktiviert;aktiviert
+0959;C1M;links - halten, rechts;deaktiviert;aktiviert
+0960;C1M;links - halten, rechts;deaktiviert;aktiviert
+0961;C1M;links - halten, rechts;deaktiviert;aktiviert
+0962;C1M;links - halten, rechts;deaktiviert;aktiviert
+0963;C1M;links - halten, rechts;deaktiviert;aktiviert
+0964;C1M;links - halten, rechts;deaktiviert;aktiviert
+0965;C1M;links - halten, rechts;deaktiviert;aktiviert
+0966;C1M;links - halten, rechts;deaktiviert;aktiviert
+0967;C1M;links - halten, rechts;deaktiviert;aktiviert
+0968;C1M;links - halten, rechts;deaktiviert;aktiviert
+0969;C1M;links - halten, rechts;deaktiviert;aktiviert
+0970;C1M;links - halten, rechts;deaktiviert;aktiviert
+0971;C1M;links - halten, rechts;deaktiviert;aktiviert
+0972;C1M;links - halten, rechts;deaktiviert;aktiviert
+0973;C1M;links - halten, rechts;deaktiviert;aktiviert
+0974;C1M;links - halten, rechts;deaktiviert;aktiviert
+0975;C1M;links - halten, rechts;deaktiviert;aktiviert
+0976;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0977;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0978;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0979;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0980;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0981;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0982;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0983;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0984;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0985;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0986;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0987;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0988;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0989;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0990;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0991;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0992;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0993;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0994;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0995;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0996;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0997;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0998;C1M;links - halten, rechts;deaktiviert;deaktiviert
+0999;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1000;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1001;C1M;simultan;aktiviert;deaktiviert
+1002;C1M;simultan;aktiviert;deaktiviert
+1003;C1M;simultan;aktiviert;deaktiviert
+1004;C1M;simultan;aktiviert;deaktiviert
+1005;C1M;simultan;aktiviert;deaktiviert
+1006;C1M;simultan;aktiviert;deaktiviert
+1007;C1M;simultan;aktiviert;deaktiviert
+1008;C1M;simultan;aktiviert;deaktiviert
+1009;C1M;simultan;aktiviert;deaktiviert
+1010;C1M;simultan;aktiviert;deaktiviert
+1011;C1M;simultan;aktiviert;deaktiviert
+1012;C1M;simultan;aktiviert;deaktiviert
+1013;C1M;simultan;aktiviert;deaktiviert
+1014;C1M;simultan;aktiviert;deaktiviert
+1015;C1M;simultan;aktiviert;deaktiviert
+1016;C1M;simultan;aktiviert;deaktiviert
+1017;C1M;simultan;aktiviert;deaktiviert
+1018;C1M;simultan;aktiviert;deaktiviert
+1019;C1M;simultan;aktiviert;deaktiviert
+1020;C1M;simultan;aktiviert;deaktiviert
+1021;C1M;simultan;aktiviert;deaktiviert
+1022;C1M;simultan;aktiviert;deaktiviert
+1023;C1M;simultan;aktiviert;deaktiviert
+1024;C1M;simultan;aktiviert;deaktiviert
+1025;C1M;simultan;aktiviert;deaktiviert
+1026;C1M;simultan;aktiviert;aktiviert
+1027;C1M;simultan;aktiviert;aktiviert
+1028;C1M;simultan;aktiviert;aktiviert
+1029;C1M;simultan;aktiviert;aktiviert
+1030;C1M;simultan;aktiviert;aktiviert
+1031;C1M;simultan;aktiviert;aktiviert
+1032;C1M;simultan;aktiviert;aktiviert
+1033;C1M;simultan;aktiviert;aktiviert
+1034;C1M;simultan;aktiviert;aktiviert
+1035;C1M;simultan;aktiviert;aktiviert
+1036;C1M;simultan;aktiviert;aktiviert
+1037;C1M;simultan;aktiviert;aktiviert
+1038;C1M;simultan;aktiviert;aktiviert
+1039;C1M;simultan;aktiviert;aktiviert
+1040;C1M;simultan;aktiviert;aktiviert
+1041;C1M;simultan;aktiviert;aktiviert
+1042;C1M;simultan;aktiviert;aktiviert
+1043;C1M;simultan;aktiviert;aktiviert
+1044;C1M;simultan;aktiviert;aktiviert
+1045;C1M;simultan;aktiviert;aktiviert
+1046;C1M;simultan;aktiviert;aktiviert
+1047;C1M;simultan;aktiviert;aktiviert
+1048;C1M;simultan;aktiviert;aktiviert
+1049;C1M;simultan;aktiviert;aktiviert
+1050;C1M;simultan;aktiviert;aktiviert
+1051;C1M;rechts, links;aktiviert;aktiviert
+1052;C1M;rechts, links;aktiviert;aktiviert
+1053;C1M;rechts, links;aktiviert;aktiviert
+1054;C1M;rechts, links;aktiviert;aktiviert
+1055;C1M;rechts, links;aktiviert;aktiviert
+1056;C1M;rechts, links;aktiviert;aktiviert
+1057;C1M;rechts, links;aktiviert;aktiviert
+1058;C1M;rechts, links;aktiviert;aktiviert
+1059;C1M;rechts, links;aktiviert;aktiviert
+1060;C1M;rechts, links;aktiviert;aktiviert
+1061;C1M;rechts, links;aktiviert;aktiviert
+1062;C1M;rechts, links;aktiviert;aktiviert
+1063;C1M;rechts, links;aktiviert;aktiviert
+1064;C1M;rechts, links;aktiviert;aktiviert
+1065;C1M;rechts, links;aktiviert;aktiviert
+1066;C1M;rechts, links;aktiviert;aktiviert
+1067;C1M;rechts, links;aktiviert;aktiviert
+1068;C1M;rechts, links;aktiviert;aktiviert
+1069;C1M;rechts, links;aktiviert;aktiviert
+1070;C1M;rechts, links;aktiviert;aktiviert
+1071;C1M;rechts, links;aktiviert;aktiviert
+1072;C1M;rechts, links;aktiviert;aktiviert
+1073;C1M;rechts, links;aktiviert;aktiviert
+1074;C1M;rechts, links;aktiviert;aktiviert
+1075;C1M;rechts, links;aktiviert;aktiviert
+1076;C1M;rechts, links;aktiviert;deaktiviert
+1077;C1M;rechts, links;aktiviert;deaktiviert
+1078;C1M;rechts, links;aktiviert;deaktiviert
+1079;C1M;rechts, links;aktiviert;deaktiviert
+1080;C1M;rechts, links;aktiviert;deaktiviert
+1081;C1M;rechts, links;aktiviert;deaktiviert
+1082;C1M;rechts, links;aktiviert;deaktiviert
+1083;C1M;rechts, links;aktiviert;deaktiviert
+1084;C1M;rechts, links;aktiviert;deaktiviert
+1085;C1M;rechts, links;aktiviert;deaktiviert
+1086;C1M;rechts, links;aktiviert;deaktiviert
+1087;C1M;rechts, links;aktiviert;deaktiviert
+1088;C1M;rechts, links;aktiviert;deaktiviert
+1089;C1M;rechts, links;aktiviert;deaktiviert
+1090;C1M;rechts, links;aktiviert;deaktiviert
+1091;C1M;rechts, links;aktiviert;deaktiviert
+1092;C1M;rechts, links;aktiviert;deaktiviert
+1093;C1M;rechts, links;aktiviert;deaktiviert
+1094;C1M;rechts, links;aktiviert;deaktiviert
+1095;C1M;rechts, links;aktiviert;deaktiviert
+1096;C1M;rechts, links;aktiviert;deaktiviert
+1097;C1M;rechts, links;aktiviert;deaktiviert
+1098;C1M;rechts, links;aktiviert;deaktiviert
+1099;C1M;rechts, links;aktiviert;deaktiviert
+1100;C1M;rechts, links;aktiviert;deaktiviert
+1101;C1M;links, rechts;aktiviert;deaktiviert
+1102;C1M;links, rechts;aktiviert;deaktiviert
+1103;C1M;links, rechts;aktiviert;deaktiviert
+1104;C1M;links, rechts;aktiviert;deaktiviert
+1105;C1M;links, rechts;aktiviert;deaktiviert
+1106;C1M;links, rechts;aktiviert;deaktiviert
+1107;C1M;links, rechts;aktiviert;deaktiviert
+1108;C1M;links, rechts;aktiviert;deaktiviert
+1109;C1M;links, rechts;aktiviert;deaktiviert
+1110;C1M;links, rechts;aktiviert;deaktiviert
+1111;C1M;links, rechts;aktiviert;deaktiviert
+1112;C1M;links, rechts;aktiviert;deaktiviert
+1113;C1M;links, rechts;aktiviert;deaktiviert
+1114;C1M;links, rechts;aktiviert;deaktiviert
+1115;C1M;links, rechts;aktiviert;deaktiviert
+1116;C1M;links, rechts;aktiviert;deaktiviert
+1117;C1M;links, rechts;aktiviert;deaktiviert
+1118;C1M;links, rechts;aktiviert;deaktiviert
+1119;C1M;links, rechts;aktiviert;deaktiviert
+1120;C1M;links, rechts;aktiviert;deaktiviert
+1121;C1M;links, rechts;aktiviert;deaktiviert
+1122;C1M;links, rechts;aktiviert;deaktiviert
+1123;C1M;links, rechts;aktiviert;deaktiviert
+1124;C1M;links, rechts;aktiviert;deaktiviert
+1125;C1M;links, rechts;aktiviert;deaktiviert
+1126;C1M;links, rechts;aktiviert;aktiviert
+1127;C1M;links, rechts;aktiviert;aktiviert
+1128;C1M;links, rechts;aktiviert;aktiviert
+1129;C1M;links, rechts;aktiviert;aktiviert
+1130;C1M;links, rechts;aktiviert;aktiviert
+1131;C1M;links, rechts;aktiviert;aktiviert
+1132;C1M;links, rechts;aktiviert;aktiviert
+1133;C1M;links, rechts;aktiviert;aktiviert
+1134;C1M;links, rechts;aktiviert;aktiviert
+1135;C1M;links, rechts;aktiviert;aktiviert
+1136;C1M;links, rechts;aktiviert;aktiviert
+1137;C1M;links, rechts;aktiviert;aktiviert
+1138;C1M;links, rechts;aktiviert;aktiviert
+1139;C1M;links, rechts;aktiviert;aktiviert
+1140;C1M;links, rechts;aktiviert;aktiviert
+1141;C1M;links, rechts;aktiviert;aktiviert
+1142;C1M;links, rechts;aktiviert;aktiviert
+1143;C1M;links, rechts;aktiviert;aktiviert
+1144;C1M;links, rechts;aktiviert;aktiviert
+1145;C1M;links, rechts;aktiviert;aktiviert
+1146;C1M;links, rechts;aktiviert;aktiviert
+1147;C1M;links, rechts;aktiviert;aktiviert
+1148;C1M;links, rechts;aktiviert;aktiviert
+1149;C1M;links, rechts;aktiviert;aktiviert
+1150;C1M;links, rechts;aktiviert;aktiviert
+1151;C1M;rechts - halten, links;aktiviert;aktiviert
+1152;C1M;rechts - halten, links;aktiviert;aktiviert
+1153;C1M;rechts - halten, links;aktiviert;aktiviert
+1154;C1M;rechts - halten, links;aktiviert;aktiviert
+1155;C1M;rechts - halten, links;aktiviert;aktiviert
+1156;C1M;rechts - halten, links;aktiviert;aktiviert
+1157;C1M;rechts - halten, links;aktiviert;aktiviert
+1158;C1M;rechts - halten, links;aktiviert;aktiviert
+1159;C1M;rechts - halten, links;aktiviert;aktiviert
+1160;C1M;rechts - halten, links;aktiviert;aktiviert
+1161;C1M;rechts - halten, links;aktiviert;aktiviert
+1162;C1M;rechts - halten, links;aktiviert;aktiviert
+1163;C1M;rechts - halten, links;aktiviert;aktiviert
+1164;C1M;rechts - halten, links;aktiviert;aktiviert
+1165;C1M;rechts - halten, links;aktiviert;aktiviert
+1166;C1M;rechts - halten, links;aktiviert;aktiviert
+1167;C1M;rechts - halten, links;aktiviert;aktiviert
+1168;C1M;rechts - halten, links;aktiviert;aktiviert
+1169;C1M;rechts - halten, links;aktiviert;aktiviert
+1170;C1M;rechts - halten, links;aktiviert;aktiviert
+1171;C1M;rechts - halten, links;aktiviert;aktiviert
+1172;C1M;rechts - halten, links;aktiviert;aktiviert
+1173;C1M;rechts - halten, links;aktiviert;aktiviert
+1174;C1M;rechts - halten, links;aktiviert;aktiviert
+1175;C1M;rechts - halten, links;aktiviert;aktiviert
+1176;C1M;rechts - halten, links;aktiviert;deaktiviert
+1177;C1M;rechts - halten, links;aktiviert;deaktiviert
+1178;C1M;rechts - halten, links;aktiviert;deaktiviert
+1179;C1M;rechts - halten, links;aktiviert;deaktiviert
+1180;C1M;rechts - halten, links;aktiviert;deaktiviert
+1181;C1M;rechts - halten, links;aktiviert;deaktiviert
+1182;C1M;rechts - halten, links;aktiviert;deaktiviert
+1183;C1M;rechts - halten, links;aktiviert;deaktiviert
+1184;C1M;rechts - halten, links;aktiviert;deaktiviert
+1185;C1M;rechts - halten, links;aktiviert;deaktiviert
+1186;C1M;rechts - halten, links;aktiviert;deaktiviert
+1187;C1M;rechts - halten, links;aktiviert;deaktiviert
+1188;C1M;rechts - halten, links;aktiviert;deaktiviert
+1189;C1M;rechts - halten, links;aktiviert;deaktiviert
+1190;C1M;rechts - halten, links;aktiviert;deaktiviert
+1191;C1M;rechts - halten, links;aktiviert;deaktiviert
+1192;C1M;rechts - halten, links;aktiviert;deaktiviert
+1193;C1M;rechts - halten, links;aktiviert;deaktiviert
+1194;C1M;rechts - halten, links;aktiviert;deaktiviert
+1195;C1M;rechts - halten, links;aktiviert;deaktiviert
+1196;C1M;rechts - halten, links;aktiviert;deaktiviert
+1197;C1M;rechts - halten, links;aktiviert;deaktiviert
+1198;C1M;rechts - halten, links;aktiviert;deaktiviert
+1199;C1M;rechts - halten, links;aktiviert;deaktiviert
+1200;C1M;rechts - halten, links;aktiviert;deaktiviert
+1201;C1M;links - halten, rechts;aktiviert;deaktiviert
+1202;C1M;links - halten, rechts;aktiviert;deaktiviert
+1203;C1M;links - halten, rechts;aktiviert;deaktiviert
+1204;C1M;links - halten, rechts;aktiviert;deaktiviert
+1205;C1M;links - halten, rechts;aktiviert;deaktiviert
+1206;C1M;links - halten, rechts;aktiviert;deaktiviert
+1207;C1M;links - halten, rechts;aktiviert;deaktiviert
+1208;C1M;links - halten, rechts;aktiviert;deaktiviert
+1209;C1M;links - halten, rechts;aktiviert;deaktiviert
+1210;C1M;links - halten, rechts;aktiviert;deaktiviert
+1211;C1M;links - halten, rechts;aktiviert;deaktiviert
+1212;C1M;links - halten, rechts;aktiviert;deaktiviert
+1213;C1M;links - halten, rechts;aktiviert;deaktiviert
+1214;C1M;links - halten, rechts;aktiviert;deaktiviert
+1215;C1M;links - halten, rechts;aktiviert;deaktiviert
+1216;C1M;links - halten, rechts;aktiviert;deaktiviert
+1217;C1M;links - halten, rechts;aktiviert;deaktiviert
+1218;C1M;links - halten, rechts;aktiviert;deaktiviert
+1219;C1M;links - halten, rechts;aktiviert;deaktiviert
+1220;C1M;links - halten, rechts;aktiviert;deaktiviert
+1221;C1M;links - halten, rechts;aktiviert;deaktiviert
+1222;C1M;links - halten, rechts;aktiviert;deaktiviert
+1223;C1M;links - halten, rechts;aktiviert;deaktiviert
+1224;C1M;links - halten, rechts;aktiviert;deaktiviert
+1225;C1M;links - halten, rechts;aktiviert;deaktiviert
+1226;C1M;links - halten, rechts;aktiviert;aktiviert
+1227;C1M;links - halten, rechts;aktiviert;aktiviert
+1228;C1M;links - halten, rechts;aktiviert;aktiviert
+1229;C1M;links - halten, rechts;aktiviert;aktiviert
+1230;C1M;links - halten, rechts;aktiviert;aktiviert
+1231;C1M;links - halten, rechts;aktiviert;aktiviert
+1232;C1M;links - halten, rechts;aktiviert;aktiviert
+1233;C1M;links - halten, rechts;aktiviert;aktiviert
+1234;C1M;links - halten, rechts;aktiviert;aktiviert
+1235;C1M;links - halten, rechts;aktiviert;aktiviert
+1236;C1M;links - halten, rechts;aktiviert;aktiviert
+1237;C1M;links - halten, rechts;aktiviert;aktiviert
+1238;C1M;links - halten, rechts;aktiviert;aktiviert
+1239;C1M;links - halten, rechts;aktiviert;aktiviert
+1240;C1M;links - halten, rechts;aktiviert;aktiviert
+1241;C1M;links - halten, rechts;aktiviert;aktiviert
+1242;C1M;links - halten, rechts;aktiviert;aktiviert
+1243;C1M;links - halten, rechts;aktiviert;aktiviert
+1244;C1M;links - halten, rechts;aktiviert;aktiviert
+1245;C1M;links - halten, rechts;aktiviert;aktiviert
+1246;C1M;links - halten, rechts;aktiviert;aktiviert
+1247;C1M;links - halten, rechts;aktiviert;aktiviert
+1248;C1M;links - halten, rechts;aktiviert;aktiviert
+1249;C1M;links - halten, rechts;aktiviert;aktiviert
+1250;C1M;links - halten, rechts;aktiviert;aktiviert
+1251;C1M;simultan;deaktiviert;aktiviert
+1252;C1M;simultan;deaktiviert;aktiviert
+1253;C1M;simultan;deaktiviert;aktiviert
+1254;C1M;simultan;deaktiviert;aktiviert
+1255;C1M;simultan;deaktiviert;aktiviert
+1256;C1M;simultan;deaktiviert;aktiviert
+1257;C1M;simultan;deaktiviert;aktiviert
+1258;C1M;simultan;deaktiviert;aktiviert
+1259;C1M;simultan;deaktiviert;aktiviert
+1260;C1M;simultan;deaktiviert;aktiviert
+1261;C1M;simultan;deaktiviert;aktiviert
+1262;C1M;simultan;deaktiviert;aktiviert
+1263;C1M;simultan;deaktiviert;aktiviert
+1264;C1M;simultan;deaktiviert;aktiviert
+1265;C1M;simultan;deaktiviert;aktiviert
+1266;C1M;simultan;deaktiviert;aktiviert
+1267;C1M;simultan;deaktiviert;aktiviert
+1268;C1M;simultan;deaktiviert;aktiviert
+1269;C1M;simultan;deaktiviert;aktiviert
+1270;C1M;simultan;deaktiviert;aktiviert
+1271;C1M;simultan;deaktiviert;aktiviert
+1272;C1M;simultan;deaktiviert;aktiviert
+1273;C1M;simultan;deaktiviert;aktiviert
+1274;C1M;simultan;deaktiviert;aktiviert
+1275;C1M;simultan;deaktiviert;aktiviert
+1276;C1M;simultan;deaktiviert;deaktiviert
+1277;C1M;simultan;deaktiviert;deaktiviert
+1278;C1M;simultan;deaktiviert;deaktiviert
+1279;C1M;simultan;deaktiviert;deaktiviert
+1280;C1M;simultan;deaktiviert;deaktiviert
+1281;C1M;simultan;deaktiviert;deaktiviert
+1282;C1M;simultan;deaktiviert;deaktiviert
+1283;C1M;simultan;deaktiviert;deaktiviert
+1284;C1M;simultan;deaktiviert;deaktiviert
+1285;C1M;simultan;deaktiviert;deaktiviert
+1286;C1M;simultan;deaktiviert;deaktiviert
+1287;C1M;simultan;deaktiviert;deaktiviert
+1288;C1M;simultan;deaktiviert;deaktiviert
+1289;C1M;simultan;deaktiviert;deaktiviert
+1290;C1M;simultan;deaktiviert;deaktiviert
+1291;C1M;simultan;deaktiviert;deaktiviert
+1292;C1M;simultan;deaktiviert;deaktiviert
+1293;C1M;simultan;deaktiviert;deaktiviert
+1294;C1M;simultan;deaktiviert;deaktiviert
+1295;C1M;simultan;deaktiviert;deaktiviert
+1296;C1M;simultan;deaktiviert;deaktiviert
+1297;C1M;simultan;deaktiviert;deaktiviert
+1298;C1M;simultan;deaktiviert;deaktiviert
+1299;C1M;simultan;deaktiviert;deaktiviert
+1300;C1M;simultan;deaktiviert;deaktiviert
+1301;C1M;rechts, links;deaktiviert;deaktiviert
+1302;C1M;rechts, links;deaktiviert;deaktiviert
+1303;C1M;rechts, links;deaktiviert;deaktiviert
+1304;C1M;rechts, links;deaktiviert;deaktiviert
+1305;C1M;rechts, links;deaktiviert;deaktiviert
+1306;C1M;rechts, links;deaktiviert;deaktiviert
+1307;C1M;rechts, links;deaktiviert;deaktiviert
+1308;C1M;rechts, links;deaktiviert;deaktiviert
+1309;C1M;rechts, links;deaktiviert;deaktiviert
+1310;C1M;rechts, links;deaktiviert;deaktiviert
+1311;C1M;rechts, links;deaktiviert;deaktiviert
+1312;C1M;rechts, links;deaktiviert;deaktiviert
+1313;C1M;rechts, links;deaktiviert;deaktiviert
+1314;C1M;rechts, links;deaktiviert;deaktiviert
+1315;C1M;rechts, links;deaktiviert;deaktiviert
+1316;C1M;rechts, links;deaktiviert;deaktiviert
+1317;C1M;rechts, links;deaktiviert;deaktiviert
+1318;C1M;rechts, links;deaktiviert;deaktiviert
+1319;C1M;rechts, links;deaktiviert;deaktiviert
+1320;C1M;rechts, links;deaktiviert;deaktiviert
+1321;C1M;rechts, links;deaktiviert;deaktiviert
+1322;C1M;rechts, links;deaktiviert;deaktiviert
+1323;C1M;rechts, links;deaktiviert;deaktiviert
+1324;C1M;rechts, links;deaktiviert;deaktiviert
+1325;C1M;rechts, links;deaktiviert;deaktiviert
+1326;C1M;rechts, links;deaktiviert;aktiviert
+1327;C1M;rechts, links;deaktiviert;aktiviert
+1328;C1M;rechts, links;deaktiviert;aktiviert
+1329;C1M;rechts, links;deaktiviert;aktiviert
+1330;C1M;rechts, links;deaktiviert;aktiviert
+1331;C1M;rechts, links;deaktiviert;aktiviert
+1332;C1M;rechts, links;deaktiviert;aktiviert
+1333;C1M;rechts, links;deaktiviert;aktiviert
+1334;C1M;rechts, links;deaktiviert;aktiviert
+1335;C1M;rechts, links;deaktiviert;aktiviert
+1336;C1M;rechts, links;deaktiviert;aktiviert
+1337;C1M;rechts, links;deaktiviert;aktiviert
+1338;C1M;rechts, links;deaktiviert;aktiviert
+1339;C1M;rechts, links;deaktiviert;aktiviert
+1340;C1M;rechts, links;deaktiviert;aktiviert
+1341;C1M;rechts, links;deaktiviert;aktiviert
+1342;C1M;rechts, links;deaktiviert;aktiviert
+1343;C1M;rechts, links;deaktiviert;aktiviert
+1344;C1M;rechts, links;deaktiviert;aktiviert
+1345;C1M;rechts, links;deaktiviert;aktiviert
+1346;C1M;rechts, links;deaktiviert;aktiviert
+1347;C1M;rechts, links;deaktiviert;aktiviert
+1348;C1M;rechts, links;deaktiviert;aktiviert
+1349;C1M;rechts, links;deaktiviert;aktiviert
+1350;C1M;rechts, links;deaktiviert;aktiviert
+1351;C1M;links, rechts;deaktiviert;aktiviert
+1352;C1M;links, rechts;deaktiviert;aktiviert
+1353;C1M;links, rechts;deaktiviert;aktiviert
+1354;C1M;links, rechts;deaktiviert;aktiviert
+1355;C1M;links, rechts;deaktiviert;aktiviert
+1356;C1M;links, rechts;deaktiviert;aktiviert
+1357;C1M;links, rechts;deaktiviert;aktiviert
+1358;C1M;links, rechts;deaktiviert;aktiviert
+1359;C1M;links, rechts;deaktiviert;aktiviert
+1360;C1M;links, rechts;deaktiviert;aktiviert
+1361;C1M;links, rechts;deaktiviert;aktiviert
+1362;C1M;links, rechts;deaktiviert;aktiviert
+1363;C1M;links, rechts;deaktiviert;aktiviert
+1364;C1M;links, rechts;deaktiviert;aktiviert
+1365;C1M;links, rechts;deaktiviert;aktiviert
+1366;C1M;links, rechts;deaktiviert;aktiviert
+1367;C1M;links, rechts;deaktiviert;aktiviert
+1368;C1M;links, rechts;deaktiviert;aktiviert
+1369;C1M;links, rechts;deaktiviert;aktiviert
+1370;C1M;links, rechts;deaktiviert;aktiviert
+1371;C1M;links, rechts;deaktiviert;aktiviert
+1372;C1M;links, rechts;deaktiviert;aktiviert
+1373;C1M;links, rechts;deaktiviert;aktiviert
+1374;C1M;links, rechts;deaktiviert;aktiviert
+1375;C1M;links, rechts;deaktiviert;aktiviert
+1376;C1M;links, rechts;deaktiviert;deaktiviert
+1377;C1M;links, rechts;deaktiviert;deaktiviert
+1378;C1M;links, rechts;deaktiviert;deaktiviert
+1379;C1M;links, rechts;deaktiviert;deaktiviert
+1380;C1M;links, rechts;deaktiviert;deaktiviert
+1381;C1M;links, rechts;deaktiviert;deaktiviert
+1382;C1M;links, rechts;deaktiviert;deaktiviert
+1383;C1M;links, rechts;deaktiviert;deaktiviert
+1384;C1M;links, rechts;deaktiviert;deaktiviert
+1385;C1M;links, rechts;deaktiviert;deaktiviert
+1386;C1M;links, rechts;deaktiviert;deaktiviert
+1387;C1M;links, rechts;deaktiviert;deaktiviert
+1388;C1M;links, rechts;deaktiviert;deaktiviert
+1389;C1M;links, rechts;deaktiviert;deaktiviert
+1390;C1M;links, rechts;deaktiviert;deaktiviert
+1391;C1M;links, rechts;deaktiviert;deaktiviert
+1392;C1M;links, rechts;deaktiviert;deaktiviert
+1393;C1M;links, rechts;deaktiviert;deaktiviert
+1394;C1M;links, rechts;deaktiviert;deaktiviert
+1395;C1M;links, rechts;deaktiviert;deaktiviert
+1396;C1M;links, rechts;deaktiviert;deaktiviert
+1397;C1M;links, rechts;deaktiviert;deaktiviert
+1398;C1M;links, rechts;deaktiviert;deaktiviert
+1399;C1M;links, rechts;deaktiviert;deaktiviert
+1400;C1M;links, rechts;deaktiviert;deaktiviert
+1401;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1402;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1403;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1404;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1405;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1406;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1407;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1408;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1409;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1410;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1411;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1412;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1413;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1414;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1415;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1416;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1417;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1418;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1419;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1420;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1421;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1422;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1423;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1424;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1425;C1M;rechts - halten, links;deaktiviert;deaktiviert
+1426;C1M;rechts - halten, links;deaktiviert;aktiviert
+1427;C1M;rechts - halten, links;deaktiviert;aktiviert
+1428;C1M;rechts - halten, links;deaktiviert;aktiviert
+1429;C1M;rechts - halten, links;deaktiviert;aktiviert
+1430;C1M;rechts - halten, links;deaktiviert;aktiviert
+1431;C1M;rechts - halten, links;deaktiviert;aktiviert
+1432;C1M;rechts - halten, links;deaktiviert;aktiviert
+1433;C1M;rechts - halten, links;deaktiviert;aktiviert
+1434;C1M;rechts - halten, links;deaktiviert;aktiviert
+1435;C1M;rechts - halten, links;deaktiviert;aktiviert
+1436;C1M;rechts - halten, links;deaktiviert;aktiviert
+1437;C1M;rechts - halten, links;deaktiviert;aktiviert
+1438;C1M;rechts - halten, links;deaktiviert;aktiviert
+1439;C1M;rechts - halten, links;deaktiviert;aktiviert
+1440;C1M;rechts - halten, links;deaktiviert;aktiviert
+1441;C1M;rechts - halten, links;deaktiviert;aktiviert
+1442;C1M;rechts - halten, links;deaktiviert;aktiviert
+1443;C1M;rechts - halten, links;deaktiviert;aktiviert
+1444;C1M;rechts - halten, links;deaktiviert;aktiviert
+1445;C1M;rechts - halten, links;deaktiviert;aktiviert
+1446;C1M;rechts - halten, links;deaktiviert;aktiviert
+1447;C1M;rechts - halten, links;deaktiviert;aktiviert
+1448;C1M;rechts - halten, links;deaktiviert;aktiviert
+1449;C1M;rechts - halten, links;deaktiviert;aktiviert
+1450;C1M;rechts - halten, links;deaktiviert;aktiviert
+1451;C1M;links - halten, rechts;deaktiviert;aktiviert
+1452;C1M;links - halten, rechts;deaktiviert;aktiviert
+1453;C1M;links - halten, rechts;deaktiviert;aktiviert
+1454;C1M;links - halten, rechts;deaktiviert;aktiviert
+1455;C1M;links - halten, rechts;deaktiviert;aktiviert
+1456;C1M;links - halten, rechts;deaktiviert;aktiviert
+1457;C1M;links - halten, rechts;deaktiviert;aktiviert
+1458;C1M;links - halten, rechts;deaktiviert;aktiviert
+1459;C1M;links - halten, rechts;deaktiviert;aktiviert
+1460;C1M;links - halten, rechts;deaktiviert;aktiviert
+1461;C1M;links - halten, rechts;deaktiviert;aktiviert
+1462;C1M;links - halten, rechts;deaktiviert;aktiviert
+1463;C1M;links - halten, rechts;deaktiviert;aktiviert
+1464;C1M;links - halten, rechts;deaktiviert;aktiviert
+1465;C1M;links - halten, rechts;deaktiviert;aktiviert
+1466;C1M;links - halten, rechts;deaktiviert;aktiviert
+1467;C1M;links - halten, rechts;deaktiviert;aktiviert
+1468;C1M;links - halten, rechts;deaktiviert;aktiviert
+1469;C1M;links - halten, rechts;deaktiviert;aktiviert
+1470;C1M;links - halten, rechts;deaktiviert;aktiviert
+1471;C1M;links - halten, rechts;deaktiviert;aktiviert
+1472;C1M;links - halten, rechts;deaktiviert;aktiviert
+1473;C1M;links - halten, rechts;deaktiviert;aktiviert
+1474;C1M;links - halten, rechts;deaktiviert;aktiviert
+1475;C1M;links - halten, rechts;deaktiviert;aktiviert
+1476;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1477;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1478;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1479;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1480;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1481;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1482;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1483;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1484;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1485;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1486;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1487;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1488;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1489;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1490;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1491;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1492;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1493;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1494;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1495;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1496;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1497;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1498;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1499;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1500;C1M;links - halten, rechts;deaktiviert;deaktiviert
+1501;C1M;simultan;aktiviert;deaktiviert
+1502;C1M;simultan;aktiviert;deaktiviert
+1503;C1M;simultan;aktiviert;deaktiviert
+1504;C1M;simultan;aktiviert;deaktiviert
+1505;C1M;simultan;aktiviert;deaktiviert
+1506;C1M;simultan;aktiviert;deaktiviert
+1507;C1M;simultan;aktiviert;deaktiviert
+1508;C1M;simultan;aktiviert;deaktiviert
+1509;C1M;simultan;aktiviert;deaktiviert
+1510;C1M;simultan;aktiviert;deaktiviert
+1511;C1M;simultan;aktiviert;deaktiviert
+1512;C1M;simultan;aktiviert;deaktiviert
+1513;C1M;simultan;aktiviert;deaktiviert
+1514;C1M;simultan;aktiviert;deaktiviert
+1515;C1M;simultan;aktiviert;deaktiviert
+1516;C1M;simultan;aktiviert;deaktiviert
+1517;C1M;simultan;aktiviert;deaktiviert
+1518;C1M;simultan;aktiviert;deaktiviert
+1519;C1M;simultan;aktiviert;deaktiviert
+1520;C1M;simultan;aktiviert;deaktiviert
+1521;C1M;simultan;aktiviert;deaktiviert
+1522;C1M;simultan;aktiviert;deaktiviert
+1523;C1M;simultan;aktiviert;deaktiviert
+1524;C1M;simultan;aktiviert;deaktiviert
+1525;C1M;simultan;aktiviert;deaktiviert
+1526;C1M;simultan;aktiviert;aktiviert
+1527;C1M;simultan;aktiviert;aktiviert
+1528;C1M;simultan;aktiviert;aktiviert
+1529;C1M;simultan;aktiviert;aktiviert
+1530;C1M;simultan;aktiviert;aktiviert
+1531;C1M;simultan;aktiviert;aktiviert
+1532;C1M;simultan;aktiviert;aktiviert
+1533;C1M;simultan;aktiviert;aktiviert
+1534;C1M;simultan;aktiviert;aktiviert
+1535;C1M;simultan;aktiviert;aktiviert
+1536;C1M;simultan;aktiviert;aktiviert
+1537;C1M;simultan;aktiviert;aktiviert
+1538;C1M;simultan;aktiviert;aktiviert
+1539;C1M;simultan;aktiviert;aktiviert
+1540;C1M;simultan;aktiviert;aktiviert
+1541;C1M;simultan;aktiviert;aktiviert
+1542;C1M;simultan;aktiviert;aktiviert
+1543;C1M;simultan;aktiviert;aktiviert
+1544;C1M;simultan;aktiviert;aktiviert
+1545;C1M;simultan;aktiviert;aktiviert
+1546;C1M;simultan;aktiviert;aktiviert
+1547;C1M;simultan;aktiviert;aktiviert
+1548;C1M;simultan;aktiviert;aktiviert
+1549;C1M;simultan;aktiviert;aktiviert
+1550;C1M;simultan;aktiviert;aktiviert
+1551;C1M;rechts, links;aktiviert;aktiviert
+1552;C1M;rechts, links;aktiviert;aktiviert
+1553;C1M;rechts, links;aktiviert;aktiviert
+1554;C1M;rechts, links;aktiviert;aktiviert
+1555;C1M;rechts, links;aktiviert;aktiviert
+1556;C1M;rechts, links;aktiviert;aktiviert
+1557;C1M;rechts, links;aktiviert;aktiviert
+1558;C1M;rechts, links;aktiviert;aktiviert
+1559;C1M;rechts, links;aktiviert;aktiviert
+1560;C1M;rechts, links;aktiviert;aktiviert
+1561;C1M;rechts, links;aktiviert;aktiviert
+1562;C1M;rechts, links;aktiviert;aktiviert
+1563;C1M;rechts, links;aktiviert;aktiviert
+1564;C1M;rechts, links;aktiviert;aktiviert
+1565;C1M;rechts, links;aktiviert;aktiviert
+1566;C1M;rechts, links;aktiviert;aktiviert
+1567;C1M;rechts, links;aktiviert;aktiviert
+1568;C1M;rechts, links;aktiviert;aktiviert
+1569;C1M;rechts, links;aktiviert;aktiviert
+1570;C1M;rechts, links;aktiviert;aktiviert
+1571;C1M;rechts, links;aktiviert;aktiviert
+1572;C1M;rechts, links;aktiviert;aktiviert
+1573;C1M;rechts, links;aktiviert;aktiviert
+1574;C1M;rechts, links;aktiviert;aktiviert
+1575;C1M;rechts, links;aktiviert;aktiviert
+1576;C1M;rechts, links;aktiviert;deaktiviert
+1577;C1M;rechts, links;aktiviert;deaktiviert
+1578;C1M;rechts, links;aktiviert;deaktiviert
+1579;C1M;rechts, links;aktiviert;deaktiviert
+1580;C1M;rechts, links;aktiviert;deaktiviert
+1581;C1M;rechts, links;aktiviert;deaktiviert
+1582;C1M;rechts, links;aktiviert;deaktiviert
+1583;C1M;rechts, links;aktiviert;deaktiviert
+1584;C1M;rechts, links;aktiviert;deaktiviert
+1585;C1M;rechts, links;aktiviert;deaktiviert
+1586;C1M;rechts, links;aktiviert;deaktiviert
+1587;C1M;rechts, links;aktiviert;deaktiviert
+1588;C1M;rechts, links;aktiviert;deaktiviert
+1589;C1M;rechts, links;aktiviert;deaktiviert
+1590;C1M;rechts, links;aktiviert;deaktiviert
+1591;C1M;rechts, links;aktiviert;deaktiviert
+1592;C1M;rechts, links;aktiviert;deaktiviert
+1593;C1M;rechts, links;aktiviert;deaktiviert
+1594;C1M;rechts, links;aktiviert;deaktiviert
+1595;C1M;rechts, links;aktiviert;deaktiviert
+1596;C1M;rechts, links;aktiviert;deaktiviert
+1597;C1M;rechts, links;aktiviert;deaktiviert
+1598;C1M;rechts, links;aktiviert;deaktiviert
+1599;C1M;rechts, links;aktiviert;deaktiviert
+1600;C1M;rechts, links;aktiviert;deaktiviert
+1601;C1M;links, rechts;aktiviert;deaktiviert
+1602;C1M;links, rechts;aktiviert;deaktiviert
+1603;C1M;links, rechts;aktiviert;deaktiviert
+1604;C1M;links, rechts;aktiviert;deaktiviert
+1605;C1M;links, rechts;aktiviert;deaktiviert
+1606;C1M;links, rechts;aktiviert;deaktiviert
+1607;C1M;links, rechts;aktiviert;deaktiviert
+1608;C1M;links, rechts;aktiviert;deaktiviert
+1609;C1M;links, rechts;aktiviert;deaktiviert
+1610;C1M;links, rechts;aktiviert;deaktiviert
+1611;C1M;links, rechts;aktiviert;deaktiviert
+1612;C1M;links, rechts;aktiviert;deaktiviert
+1613;C1M;links, rechts;aktiviert;deaktiviert
+1614;C1M;links, rechts;aktiviert;deaktiviert
+1615;C1M;links, rechts;aktiviert;deaktiviert
+1616;C1M;links, rechts;aktiviert;deaktiviert
+1617;C1M;links, rechts;aktiviert;deaktiviert
+1618;C1M;links, rechts;aktiviert;deaktiviert
+1619;C1M;links, rechts;aktiviert;deaktiviert
+1620;C1M;links, rechts;aktiviert;deaktiviert
+1621;C1M;links, rechts;aktiviert;deaktiviert
+1622;C1M;links, rechts;aktiviert;deaktiviert
+1623;C1M;links, rechts;aktiviert;deaktiviert
+1624;C1M;links, rechts;aktiviert;deaktiviert
+1625;C1M;links, rechts;aktiviert;deaktiviert
+1626;C1M;links, rechts;aktiviert;aktiviert
+1627;C1M;links, rechts;aktiviert;aktiviert
+1628;C1M;links, rechts;aktiviert;aktiviert
+1629;C1M;links, rechts;aktiviert;aktiviert
+1630;C1M;links, rechts;aktiviert;aktiviert
+1631;C1M;links, rechts;aktiviert;aktiviert
+1632;C1M;links, rechts;aktiviert;aktiviert
+1633;C1M;links, rechts;aktiviert;aktiviert
+1634;C1M;links, rechts;aktiviert;aktiviert
+1635;C1M;links, rechts;aktiviert;aktiviert
+1636;C1M;links, rechts;aktiviert;aktiviert
+1637;C1M;links, rechts;aktiviert;aktiviert
+1638;C1M;links, rechts;aktiviert;aktiviert
+1639;C1M;links, rechts;aktiviert;aktiviert
+1640;C1M;links, rechts;aktiviert;aktiviert
+1641;C1M;links, rechts;aktiviert;aktiviert
+1642;C1M;links, rechts;aktiviert;aktiviert
+1643;C1M;links, rechts;aktiviert;aktiviert
+1644;C1M;links, rechts;aktiviert;aktiviert
+1645;C1M;links, rechts;aktiviert;aktiviert
+1646;C1M;links, rechts;aktiviert;aktiviert
+1647;C1M;links, rechts;aktiviert;aktiviert
+1648;C1M;links, rechts;aktiviert;aktiviert
+1649;C1M;links, rechts;aktiviert;aktiviert
+1650;C1M;links, rechts;aktiviert;aktiviert
+1651;C1M;rechts - halten, links;aktiviert;aktiviert
+1652;C1M;rechts - halten, links;aktiviert;aktiviert
+1653;C1M;rechts - halten, links;aktiviert;aktiviert
+1654;C1M;rechts - halten, links;aktiviert;aktiviert
+1655;C1M;rechts - halten, links;aktiviert;aktiviert
+1656;C1M;rechts - halten, links;aktiviert;aktiviert
+1657;C1M;rechts - halten, links;aktiviert;aktiviert
+1658;C1M;rechts - halten, links;aktiviert;aktiviert
+1659;C1M;rechts - halten, links;aktiviert;aktiviert
+1660;C1M;rechts - halten, links;aktiviert;aktiviert
+1661;C1M;rechts - halten, links;aktiviert;aktiviert
+1662;C1M;rechts - halten, links;aktiviert;aktiviert
+1663;C1M;rechts - halten, links;aktiviert;aktiviert
+1664;C1M;rechts - halten, links;aktiviert;aktiviert
+1665;C1M;rechts - halten, links;aktiviert;aktiviert
+1666;C1M;rechts - halten, links;aktiviert;aktiviert
+1667;C1M;rechts - halten, links;aktiviert;aktiviert
+1668;C1M;rechts - halten, links;aktiviert;aktiviert
+1669;C1E;rechts - halten, links;aktiviert;aktiviert
+1670;C1E;rechts - halten, links;aktiviert;aktiviert
+1671;C1E;rechts - halten, links;aktiviert;aktiviert
+1672;C1E;rechts - halten, links;aktiviert;aktiviert
+1673;C1E;rechts - halten, links;aktiviert;aktiviert
+1674;C1E;rechts - halten, links;aktiviert;aktiviert
+1675;C1E;rechts - halten, links;aktiviert;aktiviert
+1676;C1E;rechts - halten, links;aktiviert;deaktiviert
+1677;C1E;rechts - halten, links;aktiviert;deaktiviert
+1678;C1E;rechts - halten, links;aktiviert;deaktiviert
+1679;C1E;rechts - halten, links;aktiviert;deaktiviert
+1680;C1E;rechts - halten, links;aktiviert;deaktiviert
+1681;C1E;rechts - halten, links;aktiviert;deaktiviert
+1682;C1E;rechts - halten, links;aktiviert;deaktiviert
+1683;C1E;rechts - halten, links;aktiviert;deaktiviert
+1684;C1E;rechts - halten, links;aktiviert;deaktiviert
+1685;C1E;rechts - halten, links;aktiviert;deaktiviert
+1686;C1E;rechts - halten, links;aktiviert;deaktiviert
+1687;C1E;rechts - halten, links;aktiviert;deaktiviert
+1688;C1E;rechts - halten, links;aktiviert;deaktiviert
+1689;C1E;rechts - halten, links;aktiviert;deaktiviert
+1690;C1E;rechts - halten, links;aktiviert;deaktiviert
+1691;C1E;rechts - halten, links;aktiviert;deaktiviert
+1692;C1E;rechts - halten, links;aktiviert;deaktiviert
+1693;C1E;rechts - halten, links;aktiviert;deaktiviert
+1694;C1E;rechts - halten, links;aktiviert;deaktiviert
+1695;C1E;rechts - halten, links;aktiviert;deaktiviert
+1696;C1E;rechts - halten, links;aktiviert;deaktiviert
+1697;C1E;rechts - halten, links;aktiviert;deaktiviert
+1698;C1E;rechts - halten, links;aktiviert;deaktiviert
+1699;C1E;rechts - halten, links;aktiviert;deaktiviert
+1700;C1E;rechts - halten, links;aktiviert;deaktiviert
+1701;C1E;links - halten, rechts;aktiviert;deaktiviert
+1702;C1E;links - halten, rechts;aktiviert;deaktiviert
+1703;C1E;links - halten, rechts;aktiviert;deaktiviert
+1704;C1E;links - halten, rechts;aktiviert;deaktiviert
+1705;C1E;links - halten, rechts;aktiviert;deaktiviert
+1706;C1E;links - halten, rechts;aktiviert;deaktiviert
+1707;C1E;links - halten, rechts;aktiviert;deaktiviert
+1708;C1E;links - halten, rechts;aktiviert;deaktiviert
+1709;C1E;links - halten, rechts;aktiviert;deaktiviert
+1710;C1E;links - halten, rechts;aktiviert;deaktiviert
+1711;C1E;links - halten, rechts;aktiviert;deaktiviert
+1712;C1E;links - halten, rechts;aktiviert;deaktiviert
+1713;C1E;links - halten, rechts;aktiviert;deaktiviert
+1714;C1E;links - halten, rechts;aktiviert;deaktiviert
+1715;C1E;links - halten, rechts;aktiviert;deaktiviert
+1716;C1E;links - halten, rechts;aktiviert;deaktiviert
+1717;C1E;links - halten, rechts;aktiviert;deaktiviert
+1718;C1E;links - halten, rechts;aktiviert;deaktiviert
+1719;C1E;links - halten, rechts;aktiviert;deaktiviert
+1720;C1E;links - halten, rechts;aktiviert;deaktiviert
+1721;C1E;links - halten, rechts;aktiviert;deaktiviert
+1722;C1E;links - halten, rechts;aktiviert;deaktiviert
+1723;C1E;links - halten, rechts;aktiviert;deaktiviert
+1724;C1E;links - halten, rechts;aktiviert;deaktiviert
+1725;C1E;links - halten, rechts;aktiviert;deaktiviert
+1726;C1E;links - halten, rechts;aktiviert;aktiviert
+1727;C1E;links - halten, rechts;aktiviert;aktiviert
+1728;C1E;links - halten, rechts;aktiviert;aktiviert
+1729;C1E;links - halten, rechts;aktiviert;aktiviert
+1730;C1E;links - halten, rechts;aktiviert;aktiviert
+1731;C1E;links - halten, rechts;aktiviert;aktiviert
+1732;C1E;links - halten, rechts;aktiviert;aktiviert
+1733;C1E;links - halten, rechts;aktiviert;aktiviert
+1734;C1E;links - halten, rechts;aktiviert;aktiviert
+1735;C1E;links - halten, rechts;aktiviert;aktiviert
+1736;C1E;links - halten, rechts;aktiviert;aktiviert
+1737;C1E;links - halten, rechts;aktiviert;aktiviert
+1738;C1E;links - halten, rechts;aktiviert;aktiviert
+1739;C1E;links - halten, rechts;aktiviert;aktiviert
+1740;C1E;links - halten, rechts;aktiviert;aktiviert
+1741;C1E;links - halten, rechts;aktiviert;aktiviert
+1742;C1E;links - halten, rechts;aktiviert;aktiviert
+1743;C1E;links - halten, rechts;aktiviert;aktiviert
+1744;C1E;links - halten, rechts;aktiviert;aktiviert
+1745;C1E;links - halten, rechts;aktiviert;aktiviert
+1746;C1E;links - halten, rechts;aktiviert;aktiviert
+1747;C1E;links - halten, rechts;aktiviert;aktiviert
+1748;C1E;links - halten, rechts;aktiviert;aktiviert
+1749;C1E;links - halten, rechts;aktiviert;aktiviert
+1750;C1E;links - halten, rechts;aktiviert;aktiviert
+1751;C1E;simultan;deaktiviert;aktiviert
+1752;C1E;simultan;deaktiviert;aktiviert
+1753;C1E;simultan;deaktiviert;aktiviert
+1754;C1E;simultan;deaktiviert;aktiviert
+1755;C1E;simultan;deaktiviert;aktiviert
+1756;C1E;simultan;deaktiviert;aktiviert
+1757;C1E;simultan;deaktiviert;aktiviert
+1758;C1E;simultan;deaktiviert;aktiviert
+1759;C1E;simultan;deaktiviert;aktiviert
+1760;C1E;simultan;deaktiviert;aktiviert
+1761;C1E;simultan;deaktiviert;aktiviert
+1762;C1E;simultan;deaktiviert;aktiviert
+1763;C1E;simultan;deaktiviert;aktiviert
+1764;C1E;simultan;deaktiviert;aktiviert
+1765;C1E;simultan;deaktiviert;aktiviert
+1766;C1E;simultan;deaktiviert;aktiviert
+1767;C1E;simultan;deaktiviert;aktiviert
+1768;C1E;simultan;deaktiviert;aktiviert
+1769;C1E;simultan;deaktiviert;aktiviert
+1770;C1E;simultan;deaktiviert;aktiviert
+1771;C1E;simultan;deaktiviert;aktiviert
+1772;C1E;simultan;deaktiviert;aktiviert
+1773;C1E;simultan;deaktiviert;aktiviert
+1774;C1E;simultan;deaktiviert;aktiviert
+1775;C1E;simultan;deaktiviert;aktiviert
+1776;C1E;simultan;deaktiviert;deaktiviert
+1777;C1E;simultan;deaktiviert;deaktiviert
+1778;C1E;simultan;deaktiviert;deaktiviert
+1779;C1E;simultan;deaktiviert;deaktiviert
+1780;C1E;simultan;deaktiviert;deaktiviert
+1781;C1E;simultan;deaktiviert;deaktiviert
+1782;C1E;simultan;deaktiviert;deaktiviert
+1783;C1E;simultan;deaktiviert;deaktiviert
+1784;C1E;simultan;deaktiviert;deaktiviert
+1785;C1E;simultan;deaktiviert;deaktiviert
+1786;C1E;simultan;deaktiviert;deaktiviert
+1787;C1E;simultan;deaktiviert;deaktiviert
+1788;C1E;simultan;deaktiviert;deaktiviert
+1789;C1E;simultan;deaktiviert;deaktiviert
+1790;C1E;simultan;deaktiviert;deaktiviert
+1791;C1E;simultan;deaktiviert;deaktiviert
+1792;C1E;simultan;deaktiviert;deaktiviert
+1793;C1E;simultan;deaktiviert;deaktiviert
+1794;C1E;simultan;deaktiviert;deaktiviert
+1795;C1E;simultan;deaktiviert;deaktiviert
+1796;C1E;simultan;deaktiviert;deaktiviert
+1797;C1E;simultan;deaktiviert;deaktiviert
+1798;C1E;simultan;deaktiviert;deaktiviert
+1799;C1E;simultan;deaktiviert;deaktiviert
+1800;C1E;simultan;deaktiviert;deaktiviert
+1801;C1E;rechts, links;deaktiviert;deaktiviert
+1802;C1E;rechts, links;deaktiviert;deaktiviert
+1803;C1E;rechts, links;deaktiviert;deaktiviert
+1804;C1E;rechts, links;deaktiviert;deaktiviert
+1805;C1E;rechts, links;deaktiviert;deaktiviert
+1806;C1E;rechts, links;deaktiviert;deaktiviert
+1807;C1E;rechts, links;deaktiviert;deaktiviert
+1808;C1E;rechts, links;deaktiviert;deaktiviert
+1809;C1E;rechts, links;deaktiviert;deaktiviert
+1810;C1E;rechts, links;deaktiviert;deaktiviert
+1811;C1E;rechts, links;deaktiviert;deaktiviert
+1812;C1E;rechts, links;deaktiviert;deaktiviert
+1813;C1E;rechts, links;deaktiviert;deaktiviert
+1814;C1E;rechts, links;deaktiviert;deaktiviert
+1815;C1E;rechts, links;deaktiviert;deaktiviert
+1816;C1E;rechts, links;deaktiviert;deaktiviert
+1817;C1E;rechts, links;deaktiviert;deaktiviert
+1818;C1E;rechts, links;deaktiviert;deaktiviert
+1819;C1E;rechts, links;deaktiviert;deaktiviert
+1820;C1E;rechts, links;deaktiviert;deaktiviert
+1821;C1E;rechts, links;deaktiviert;deaktiviert
+1822;C1E;rechts, links;deaktiviert;deaktiviert
+1823;C1E;rechts, links;deaktiviert;deaktiviert
+1824;C1E;rechts, links;deaktiviert;deaktiviert
+1825;C1E;rechts, links;deaktiviert;deaktiviert
+1826;C1E;rechts, links;deaktiviert;aktiviert
+1827;C1E;rechts, links;deaktiviert;aktiviert
+1828;C1E;rechts, links;deaktiviert;aktiviert
+1829;C1E;rechts, links;deaktiviert;aktiviert
+1830;C1E;rechts, links;deaktiviert;aktiviert
+1831;C1E;rechts, links;deaktiviert;aktiviert
+1832;C1E;rechts, links;deaktiviert;aktiviert
+1833;C1E;rechts, links;deaktiviert;aktiviert
+1834;C1E;rechts, links;deaktiviert;aktiviert
+1835;C1E;rechts, links;deaktiviert;aktiviert
+1836;C1E;rechts, links;deaktiviert;aktiviert
+1837;C1E;rechts, links;deaktiviert;aktiviert
+1838;C1E;rechts, links;deaktiviert;aktiviert
+1839;C1E;rechts, links;deaktiviert;aktiviert
+1840;C1E;rechts, links;deaktiviert;aktiviert
+1841;C1E;rechts, links;deaktiviert;aktiviert
+1842;C1E;rechts, links;deaktiviert;aktiviert
+1843;C1E;rechts, links;deaktiviert;aktiviert
+1844;C1E;rechts, links;deaktiviert;aktiviert
+1845;C1E;rechts, links;deaktiviert;aktiviert
+1846;C1E;rechts, links;deaktiviert;aktiviert
+1847;C1E;rechts, links;deaktiviert;aktiviert
+1848;C1E;rechts, links;deaktiviert;aktiviert
+1849;C1E;rechts, links;deaktiviert;aktiviert
+1850;C1E;rechts, links;deaktiviert;aktiviert
+1851;C1E;links, rechts;deaktiviert;aktiviert
+1852;C1E;links, rechts;deaktiviert;aktiviert
+1853;C1E;links, rechts;deaktiviert;aktiviert
+1854;C1E;links, rechts;deaktiviert;aktiviert
+1855;C1E;links, rechts;deaktiviert;aktiviert
+1856;C1E;links, rechts;deaktiviert;aktiviert
+1857;C1E;links, rechts;deaktiviert;aktiviert
+1858;C1E;links, rechts;deaktiviert;aktiviert
+1859;C1E;links, rechts;deaktiviert;aktiviert
+1860;C1E;links, rechts;deaktiviert;aktiviert
+1861;C1E;links, rechts;deaktiviert;aktiviert
+1862;C1E;links, rechts;deaktiviert;aktiviert
+1863;C1E;links, rechts;deaktiviert;aktiviert
+1864;C1E;links, rechts;deaktiviert;aktiviert
+1865;C1E;links, rechts;deaktiviert;aktiviert
+1866;C1E;links, rechts;deaktiviert;aktiviert
+1867;C1E;links, rechts;deaktiviert;aktiviert
+1868;C1E;links, rechts;deaktiviert;aktiviert
+1869;C1E;links, rechts;deaktiviert;aktiviert
+1870;C1E;links, rechts;deaktiviert;aktiviert
+1871;C1E;links, rechts;deaktiviert;aktiviert
+1872;C1E;links, rechts;deaktiviert;aktiviert
+1873;C1E;links, rechts;deaktiviert;aktiviert
+1874;C1E;links, rechts;deaktiviert;aktiviert
+1875;C1E;links, rechts;deaktiviert;aktiviert
+1876;C1E;links, rechts;deaktiviert;deaktiviert
+1877;C1E;links, rechts;deaktiviert;deaktiviert
+1878;C1E;links, rechts;deaktiviert;deaktiviert
+1879;C1E;links, rechts;deaktiviert;deaktiviert
+1880;C1E;links, rechts;deaktiviert;deaktiviert
+1881;C1E;links, rechts;deaktiviert;deaktiviert
+1882;C1E;links, rechts;deaktiviert;deaktiviert
+1883;C1E;links, rechts;deaktiviert;deaktiviert
+1884;C1E;links, rechts;deaktiviert;deaktiviert
+1885;C1E;links, rechts;deaktiviert;deaktiviert
+1886;C1E;links, rechts;deaktiviert;deaktiviert
+1887;C1E;links, rechts;deaktiviert;deaktiviert
+1888;C1E;links, rechts;deaktiviert;deaktiviert
+1889;C1E;links, rechts;deaktiviert;deaktiviert
+1890;C1E;links, rechts;deaktiviert;deaktiviert
+1891;C1E;links, rechts;deaktiviert;deaktiviert
+1892;C1E;links, rechts;deaktiviert;deaktiviert
+1893;C1E;links, rechts;deaktiviert;deaktiviert
+1894;C1E;links, rechts;deaktiviert;deaktiviert
+1895;C1E;links, rechts;deaktiviert;deaktiviert
+1896;C1E;links, rechts;deaktiviert;deaktiviert
+1897;C1E;links, rechts;deaktiviert;deaktiviert
+1898;C1E;links, rechts;deaktiviert;deaktiviert
+1899;C1E;links, rechts;deaktiviert;deaktiviert
+1900;C1E;links, rechts;deaktiviert;deaktiviert
+1901;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1902;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1903;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1904;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1905;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1906;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1907;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1908;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1909;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1910;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1911;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1912;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1913;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1914;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1915;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1916;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1917;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1918;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1919;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1920;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1921;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1922;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1923;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1924;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1925;C1E;rechts - halten, links;deaktiviert;deaktiviert
+1926;C1E;rechts - halten, links;deaktiviert;aktiviert
+1927;C1E;rechts - halten, links;deaktiviert;aktiviert
+1928;C1E;rechts - halten, links;deaktiviert;aktiviert
+1929;C1E;rechts - halten, links;deaktiviert;aktiviert
+1930;C1E;rechts - halten, links;deaktiviert;aktiviert
+1931;C1E;rechts - halten, links;deaktiviert;aktiviert
+1932;C1E;rechts - halten, links;deaktiviert;aktiviert
+1933;C1E;rechts - halten, links;deaktiviert;aktiviert
+1934;C1E;rechts - halten, links;deaktiviert;aktiviert
+1935;C1E;rechts - halten, links;deaktiviert;aktiviert
+1936;C1E;rechts - halten, links;deaktiviert;aktiviert
+1937;C1E;rechts - halten, links;deaktiviert;aktiviert
+1938;C1E;rechts - halten, links;deaktiviert;aktiviert
+1939;C1E;rechts - halten, links;deaktiviert;aktiviert
+1940;C1E;rechts - halten, links;deaktiviert;aktiviert
+1941;C1E;rechts - halten, links;deaktiviert;aktiviert
+1942;C1E;rechts - halten, links;deaktiviert;aktiviert
+1943;C1E;rechts - halten, links;deaktiviert;aktiviert
+1944;C1E;rechts - halten, links;deaktiviert;aktiviert
+1945;C1E;rechts - halten, links;deaktiviert;aktiviert
+1946;C1E;rechts - halten, links;deaktiviert;aktiviert
+1947;C1E;rechts - halten, links;deaktiviert;aktiviert
+1948;C1E;rechts - halten, links;deaktiviert;aktiviert
+1949;C1E;rechts - halten, links;deaktiviert;aktiviert
+1950;C1E;rechts - halten, links;deaktiviert;aktiviert
+1951;C1E;links - halten, rechts;deaktiviert;aktiviert
+1952;C1E;links - halten, rechts;deaktiviert;aktiviert
+1953;C1E;links - halten, rechts;deaktiviert;aktiviert
+1954;C1E;links - halten, rechts;deaktiviert;aktiviert
+1955;C1E;links - halten, rechts;deaktiviert;aktiviert
+1956;C1E;links - halten, rechts;deaktiviert;aktiviert
+1957;C1E;links - halten, rechts;deaktiviert;aktiviert
+1958;C1E;links - halten, rechts;deaktiviert;aktiviert
+1959;C1E;links - halten, rechts;deaktiviert;aktiviert
+1960;C1E;links - halten, rechts;deaktiviert;aktiviert
+1961;C1E;links - halten, rechts;deaktiviert;aktiviert
+1962;C1E;links - halten, rechts;deaktiviert;aktiviert
+1963;C1E;links - halten, rechts;deaktiviert;aktiviert
+1964;C1E;links - halten, rechts;deaktiviert;aktiviert
+1965;C1E;links - halten, rechts;deaktiviert;aktiviert
+1966;C1E;links - halten, rechts;deaktiviert;aktiviert
+1967;C1E;links - halten, rechts;deaktiviert;aktiviert
+1968;C1E;links - halten, rechts;deaktiviert;aktiviert
+1969;C1E;links - halten, rechts;deaktiviert;aktiviert
+1970;C1E;links - halten, rechts;deaktiviert;aktiviert
+1971;C1E;links - halten, rechts;deaktiviert;aktiviert
+1972;C1E;links - halten, rechts;deaktiviert;aktiviert
+1973;C1E;links - halten, rechts;deaktiviert;aktiviert
+1974;C1E;links - halten, rechts;deaktiviert;aktiviert
+1975;C1E;links - halten, rechts;deaktiviert;aktiviert
+1976;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1977;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1978;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1979;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1980;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1981;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1982;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1983;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1984;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1985;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1986;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1987;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1988;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1989;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1990;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1991;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1992;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1993;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1994;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1995;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1996;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1997;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1998;C1E;links - halten, rechts;deaktiviert;deaktiviert
+1999;C1E;links - halten, rechts;deaktiviert;deaktiviert
+2000;C1E;links - halten, rechts;deaktiviert;deaktiviert
+2001;C1E;simultan;aktiviert;deaktiviert
+2002;C1E;simultan;aktiviert;deaktiviert
+2003;C1E;simultan;aktiviert;deaktiviert
+2004;C1E;simultan;aktiviert;deaktiviert
+2005;C1E;simultan;aktiviert;deaktiviert
+2006;C1E;simultan;aktiviert;deaktiviert
+2007;C1E;simultan;aktiviert;deaktiviert
+2008;C1E;simultan;aktiviert;deaktiviert
+2009;C1E;simultan;aktiviert;deaktiviert
+2010;C1E;simultan;aktiviert;deaktiviert
+2011;C1E;simultan;aktiviert;deaktiviert
+2012;C1E;simultan;aktiviert;deaktiviert
+2013;C1E;simultan;aktiviert;deaktiviert
+2014;C1E;simultan;aktiviert;deaktiviert
+2015;C1E;simultan;aktiviert;deaktiviert
+2016;C1E;simultan;aktiviert;deaktiviert
+2017;C1E;simultan;aktiviert;deaktiviert
+2018;C1E;simultan;aktiviert;deaktiviert
+2019;C1E;simultan;aktiviert;deaktiviert
+2020;C1E;simultan;aktiviert;deaktiviert
+2021;C1E;simultan;aktiviert;deaktiviert
+2022;C1E;simultan;aktiviert;deaktiviert
+2023;C1E;simultan;aktiviert;deaktiviert
+2024;C1E;simultan;aktiviert;deaktiviert
+2025;C1E;simultan;aktiviert;deaktiviert
+2026;C1E;simultan;aktiviert;aktiviert
+2027;C1E;simultan;aktiviert;aktiviert
+2028;C1E;simultan;aktiviert;aktiviert
+2029;C1E;simultan;aktiviert;aktiviert
+2030;C1E;simultan;aktiviert;aktiviert
+2031;C1E;simultan;aktiviert;aktiviert
+2032;C1E;simultan;aktiviert;aktiviert
+2033;C1E;simultan;aktiviert;aktiviert
+2034;C1E;simultan;aktiviert;aktiviert
+2035;C1E;simultan;aktiviert;aktiviert
+2036;C1E;simultan;aktiviert;aktiviert
+2037;C1E;simultan;aktiviert;aktiviert
+2038;C1E;simultan;aktiviert;aktiviert
+2039;C1E;simultan;aktiviert;aktiviert
+2040;C1E;simultan;aktiviert;aktiviert
+2041;C1E;simultan;aktiviert;aktiviert
+2042;C1E;simultan;aktiviert;aktiviert
+2043;C1E;simultan;aktiviert;aktiviert
+2044;C1E;simultan;aktiviert;aktiviert
+2045;C1E;simultan;aktiviert;aktiviert
+2046;C1E;simultan;aktiviert;aktiviert
+2047;C1E;simultan;aktiviert;aktiviert
+2048;C1E;simultan;aktiviert;aktiviert
+2049;C1E;simultan;aktiviert;aktiviert
+2050;C1E;simultan;aktiviert;aktiviert
+2051;C1E;rechts, links;aktiviert;aktiviert
+2052;C1E;rechts, links;aktiviert;aktiviert
+2053;C1E;rechts, links;aktiviert;aktiviert
+2054;C1E;rechts, links;aktiviert;aktiviert
+2055;C1E;rechts, links;aktiviert;aktiviert
+2056;C1E;rechts, links;aktiviert;aktiviert
+2057;C1E;rechts, links;aktiviert;aktiviert
+2058;C1E;rechts, links;aktiviert;aktiviert
+2059;C1E;rechts, links;aktiviert;aktiviert
+2060;C1E;rechts, links;aktiviert;aktiviert
+2061;C1E;rechts, links;aktiviert;aktiviert
+2062;C1E;rechts, links;aktiviert;aktiviert
+2063;C1E;rechts, links;aktiviert;aktiviert
+2064;C1E;rechts, links;aktiviert;aktiviert
+2065;C1E;rechts, links;aktiviert;aktiviert
+2066;C1E;rechts, links;aktiviert;aktiviert
+2067;C1E;rechts, links;aktiviert;aktiviert
+2068;C1E;rechts, links;aktiviert;aktiviert
+2069;C1E;rechts, links;aktiviert;aktiviert
+2070;C1E;rechts, links;aktiviert;aktiviert
+2071;C1E;rechts, links;aktiviert;aktiviert
+2072;C1E;rechts, links;aktiviert;aktiviert
+2073;C1E;rechts, links;aktiviert;aktiviert
+2074;C1E;rechts, links;aktiviert;aktiviert
+2075;C1E;rechts, links;aktiviert;aktiviert
+2076;C1E;rechts, links;aktiviert;deaktiviert
+2077;C1E;rechts, links;aktiviert;deaktiviert
+2078;C1E;rechts, links;aktiviert;deaktiviert
+2079;C1E;rechts, links;aktiviert;deaktiviert
+2080;C1E;rechts, links;aktiviert;deaktiviert
+2081;C1E;rechts, links;aktiviert;deaktiviert
+2082;C1E;rechts, links;aktiviert;deaktiviert
+2083;C1E;rechts, links;aktiviert;deaktiviert
+2084;C1E;rechts, links;aktiviert;deaktiviert
+2085;C1E;rechts, links;aktiviert;deaktiviert
+2086;C1E;rechts, links;aktiviert;deaktiviert
+2087;C1E;rechts, links;aktiviert;deaktiviert
+2088;C1E;rechts, links;aktiviert;deaktiviert
+2089;C1E;rechts, links;aktiviert;deaktiviert
+2090;C1E;rechts, links;aktiviert;deaktiviert
+2091;C1E;rechts, links;aktiviert;deaktiviert
+2092;C1E;rechts, links;aktiviert;deaktiviert
+2093;C1E;rechts, links;aktiviert;deaktiviert
+2094;C1E;rechts, links;aktiviert;deaktiviert
+2095;C1E;rechts, links;aktiviert;deaktiviert
+2096;C1E;rechts, links;aktiviert;deaktiviert
+2097;C1E;rechts, links;aktiviert;deaktiviert
+2098;C1E;rechts, links;aktiviert;deaktiviert
+2099;C1E;rechts, links;aktiviert;deaktiviert
+2100;C1E;rechts, links;aktiviert;deaktiviert
+2101;C1E;links, rechts;aktiviert;deaktiviert
+2102;C1E;links, rechts;aktiviert;deaktiviert
+2103;C1E;links, rechts;aktiviert;deaktiviert
+2104;C1E;links, rechts;aktiviert;deaktiviert
+2105;C1E;links, rechts;aktiviert;deaktiviert
+2106;C1E;links, rechts;aktiviert;deaktiviert
+2107;C1E;links, rechts;aktiviert;deaktiviert
+2108;C1E;links, rechts;aktiviert;deaktiviert
+2109;C1E;links, rechts;aktiviert;deaktiviert
+2110;C1E;links, rechts;aktiviert;deaktiviert
+2111;C1E;links, rechts;aktiviert;deaktiviert
+2112;C1E;links, rechts;aktiviert;deaktiviert
+2113;C1E;links, rechts;aktiviert;deaktiviert
+2114;C1E;links, rechts;aktiviert;deaktiviert
+2115;C1E;links, rechts;aktiviert;deaktiviert
+2116;C1E;links, rechts;aktiviert;deaktiviert
+2117;C1E;links, rechts;aktiviert;deaktiviert
+2118;C1E;links, rechts;aktiviert;deaktiviert
+2119;C1E;links, rechts;aktiviert;deaktiviert
+2120;C1E;links, rechts;aktiviert;deaktiviert
+2121;C1E;links, rechts;aktiviert;deaktiviert
+2122;C1E;links, rechts;aktiviert;deaktiviert
+2123;C1E;links, rechts;aktiviert;deaktiviert
+2124;C1E;links, rechts;aktiviert;deaktiviert
+2125;C1E;links, rechts;aktiviert;deaktiviert
+2126;C1E;links, rechts;aktiviert;aktiviert
+2127;C1E;links, rechts;aktiviert;aktiviert
+2128;C1E;links, rechts;aktiviert;aktiviert
+2129;C1E;links, rechts;aktiviert;aktiviert
+2130;C1E;links, rechts;aktiviert;aktiviert
+2131;C1E;links, rechts;aktiviert;aktiviert
+2132;C1E;links, rechts;aktiviert;aktiviert
+2133;C1E;links, rechts;aktiviert;aktiviert
+2134;C1E;links, rechts;aktiviert;aktiviert
+2135;C1E;links, rechts;aktiviert;aktiviert
+2136;C1E;links, rechts;aktiviert;aktiviert
+2137;C1E;links, rechts;aktiviert;aktiviert
+2138;C1E;links, rechts;aktiviert;aktiviert
+2139;C1E;links, rechts;aktiviert;aktiviert
+2140;C1E;links, rechts;aktiviert;aktiviert
+2141;C1E;links, rechts;aktiviert;aktiviert
+2142;C1E;links, rechts;aktiviert;aktiviert
+2143;C1E;links, rechts;aktiviert;aktiviert
+2144;C1E;links, rechts;aktiviert;aktiviert
+2145;C1E;links, rechts;aktiviert;aktiviert
+2146;C1E;links, rechts;aktiviert;aktiviert
+2147;C1E;links, rechts;aktiviert;aktiviert
+2148;C1E;links, rechts;aktiviert;aktiviert
+2149;C1E;links, rechts;aktiviert;aktiviert
+2150;C1E;links, rechts;aktiviert;aktiviert
+2151;C1E;rechts - halten, links;aktiviert;aktiviert
+2152;C1E;rechts - halten, links;aktiviert;aktiviert
+2153;C1E;rechts - halten, links;aktiviert;aktiviert
+2154;C1E;rechts - halten, links;aktiviert;aktiviert
+2155;C1E;rechts - halten, links;aktiviert;aktiviert
+2156;C1E;rechts - halten, links;aktiviert;aktiviert
+2157;C1E;rechts - halten, links;aktiviert;aktiviert
+2158;C1E;rechts - halten, links;aktiviert;aktiviert
+2159;C1E;rechts - halten, links;aktiviert;aktiviert
+2160;C1E;rechts - halten, links;aktiviert;aktiviert
+2161;C1E;rechts - halten, links;aktiviert;aktiviert
+2162;C1E;rechts - halten, links;aktiviert;aktiviert
+2163;C1E;rechts - halten, links;aktiviert;aktiviert
+2164;C1E;rechts - halten, links;aktiviert;aktiviert
+2165;C1E;rechts - halten, links;aktiviert;aktiviert
+2166;C1E;rechts - halten, links;aktiviert;aktiviert
+2167;C1E;rechts - halten, links;aktiviert;aktiviert
+2168;C1E;rechts - halten, links;aktiviert;aktiviert
+2169;C1E;rechts - halten, links;aktiviert;aktiviert
+2170;C1E;rechts - halten, links;aktiviert;aktiviert
+2171;C1E;rechts - halten, links;aktiviert;aktiviert
+2172;C1E;rechts - halten, links;aktiviert;aktiviert
+2173;C1E;rechts - halten, links;aktiviert;aktiviert
+2174;C1E;rechts - halten, links;aktiviert;aktiviert
+2175;C1E;rechts - halten, links;aktiviert;aktiviert
+2176;C1E;rechts - halten, links;aktiviert;deaktiviert
+2177;C1E;rechts - halten, links;aktiviert;deaktiviert
+2178;C1E;rechts - halten, links;aktiviert;deaktiviert
+2179;C1E;rechts - halten, links;aktiviert;deaktiviert
+2180;C1E;rechts - halten, links;aktiviert;deaktiviert
+2181;C1E;rechts - halten, links;aktiviert;deaktiviert
+2182;C1E;rechts - halten, links;aktiviert;deaktiviert
+2183;C1E;rechts - halten, links;aktiviert;deaktiviert
+2184;C1E;rechts - halten, links;aktiviert;deaktiviert
+2185;C1E;rechts - halten, links;aktiviert;deaktiviert
+2186;C1E;rechts - halten, links;aktiviert;deaktiviert
+2187;C1E;rechts - halten, links;aktiviert;deaktiviert
+2188;C1E;rechts - halten, links;aktiviert;deaktiviert
+2189;C1E;rechts - halten, links;aktiviert;deaktiviert
+2190;C1E;rechts - halten, links;aktiviert;deaktiviert
+2191;C1E;rechts - halten, links;aktiviert;deaktiviert
+2192;C1E;rechts - halten, links;aktiviert;deaktiviert
+2193;C1E;rechts - halten, links;aktiviert;deaktiviert
+2194;C1E;rechts - halten, links;aktiviert;deaktiviert
+2195;C1E;rechts - halten, links;aktiviert;deaktiviert
+2196;C1E;rechts - halten, links;aktiviert;deaktiviert
+2197;C1E;rechts - halten, links;aktiviert;deaktiviert
+2198;C1E;rechts - halten, links;aktiviert;deaktiviert
+2199;C1E;rechts - halten, links;aktiviert;deaktiviert
+2200;C1E;rechts - halten, links;aktiviert;deaktiviert
+2201;C1E;links - halten, rechts;aktiviert;deaktiviert
+2202;C1E;links - halten, rechts;aktiviert;deaktiviert
+2203;C1E;links - halten, rechts;aktiviert;deaktiviert
+2204;C1E;links - halten, rechts;aktiviert;deaktiviert
+2205;C1E;links - halten, rechts;aktiviert;deaktiviert
+2206;C1E;links - halten, rechts;aktiviert;deaktiviert
+2207;C1E;links - halten, rechts;aktiviert;deaktiviert
+2208;C1E;links - halten, rechts;aktiviert;deaktiviert
+2209;C1E;links - halten, rechts;aktiviert;deaktiviert
+2210;C1E;links - halten, rechts;aktiviert;deaktiviert
+2211;C1E;links - halten, rechts;aktiviert;deaktiviert
+2212;C1E;links - halten, rechts;aktiviert;deaktiviert
+2213;C1E;links - halten, rechts;aktiviert;deaktiviert
+2214;C1E;links - halten, rechts;aktiviert;deaktiviert
+2215;C1E;links - halten, rechts;aktiviert;deaktiviert
+2216;C1E;links - halten, rechts;aktiviert;deaktiviert
+2217;C1E;links - halten, rechts;aktiviert;deaktiviert
+2218;C1E;links - halten, rechts;aktiviert;deaktiviert
+2219;C1E;links - halten, rechts;aktiviert;deaktiviert
+2220;C1E;links - halten, rechts;aktiviert;deaktiviert
+2221;C1E;links - halten, rechts;aktiviert;deaktiviert
+2222;C1E;links - halten, rechts;aktiviert;deaktiviert
+2223;C1E;links - halten, rechts;aktiviert;deaktiviert
+2224;C1E;links - halten, rechts;aktiviert;deaktiviert
+2225;C1E;links - halten, rechts;aktiviert;deaktiviert
+2226;C1E;links - halten, rechts;aktiviert;aktiviert
+2227;C1E;links - halten, rechts;aktiviert;aktiviert
+2228;C1E;links - halten, rechts;aktiviert;aktiviert
+2229;C1E;links - halten, rechts;aktiviert;aktiviert
+2230;C1E;links - halten, rechts;aktiviert;aktiviert
+2231;C1E;links - halten, rechts;aktiviert;aktiviert
+2232;C1E;links - halten, rechts;aktiviert;aktiviert
+2233;C1E;links - halten, rechts;aktiviert;aktiviert
+2234;C1E;links - halten, rechts;aktiviert;aktiviert
+2235;C1E;links - halten, rechts;aktiviert;aktiviert
+2236;C1E;links - halten, rechts;aktiviert;aktiviert
+2237;C1E;links - halten, rechts;aktiviert;aktiviert
+2238;C1E;links - halten, rechts;aktiviert;aktiviert
+2239;C1E;links - halten, rechts;aktiviert;aktiviert
+2240;C1E;links - halten, rechts;aktiviert;aktiviert
+2241;C1E;links - halten, rechts;aktiviert;aktiviert
+2242;C1E;links - halten, rechts;aktiviert;aktiviert
+2243;C1E;links - halten, rechts;aktiviert;aktiviert
+2244;C1E;links - halten, rechts;aktiviert;aktiviert
+2245;C1E;links - halten, rechts;aktiviert;aktiviert
+2246;C1E;links - halten, rechts;aktiviert;aktiviert
+2247;C1E;links - halten, rechts;aktiviert;aktiviert
+2248;C1E;links - halten, rechts;aktiviert;aktiviert
+2249;C1E;links - halten, rechts;aktiviert;aktiviert
+2250;C1E;links - halten, rechts;aktiviert;aktiviert
+2251;C1E;simultan;deaktiviert;aktiviert
+2252;C1E;simultan;deaktiviert;aktiviert
+2253;C1E;simultan;deaktiviert;aktiviert
+2254;C1E;simultan;deaktiviert;aktiviert
+2255;C1E;simultan;deaktiviert;aktiviert
+2256;C1E;simultan;deaktiviert;aktiviert
+2257;C1E;simultan;deaktiviert;aktiviert
+2258;C1E;simultan;deaktiviert;aktiviert
+2259;C1E;simultan;deaktiviert;aktiviert
+2260;C1E;simultan;deaktiviert;aktiviert
+2261;C1E;simultan;deaktiviert;aktiviert
+2262;C1E;simultan;deaktiviert;aktiviert
+2263;C1E;simultan;deaktiviert;aktiviert
+2264;C1E;simultan;deaktiviert;aktiviert
+2265;C1E;simultan;deaktiviert;aktiviert
+2266;C1E;simultan;deaktiviert;aktiviert
+2267;C1E;simultan;deaktiviert;aktiviert
+2268;C1E;simultan;deaktiviert;aktiviert
+2269;C1E;simultan;deaktiviert;aktiviert
+2270;C1E;simultan;deaktiviert;aktiviert
+2271;C1E;simultan;deaktiviert;aktiviert
+2272;C1E;simultan;deaktiviert;aktiviert
+2273;C1E;simultan;deaktiviert;aktiviert
+2274;C1E;simultan;deaktiviert;aktiviert
+2275;C1E;simultan;deaktiviert;aktiviert
+2276;C1E;simultan;deaktiviert;deaktiviert
+2277;C1E;simultan;deaktiviert;deaktiviert
+2278;C1E;simultan;deaktiviert;deaktiviert
+2279;C1E;simultan;deaktiviert;deaktiviert
+2280;C1E;simultan;deaktiviert;deaktiviert
+2281;C1E;simultan;deaktiviert;deaktiviert
+2282;C1E;simultan;deaktiviert;deaktiviert
+2283;C1E;simultan;deaktiviert;deaktiviert
+2284;C1E;simultan;deaktiviert;deaktiviert
+2285;C1E;simultan;deaktiviert;deaktiviert
+2286;C1E;simultan;deaktiviert;deaktiviert
+2287;C1E;simultan;deaktiviert;deaktiviert
+2288;C1E;simultan;deaktiviert;deaktiviert
+2289;C1E;simultan;deaktiviert;deaktiviert
+2290;C1E;simultan;deaktiviert;deaktiviert
+2291;C1E;simultan;deaktiviert;deaktiviert
+2292;C1E;simultan;deaktiviert;deaktiviert
+2293;C1E;simultan;deaktiviert;deaktiviert
+2294;C1E;simultan;deaktiviert;deaktiviert
+2295;C1E;simultan;deaktiviert;deaktiviert
+2296;C1E;simultan;deaktiviert;deaktiviert
+2297;C1E;simultan;deaktiviert;deaktiviert
+2298;C1E;simultan;deaktiviert;deaktiviert
+2299;C1E;simultan;deaktiviert;deaktiviert
+2300;C1E;simultan;deaktiviert;deaktiviert
+2301;C1E;rechts, links;deaktiviert;deaktiviert
+2302;C1E;rechts, links;deaktiviert;deaktiviert
+2303;C1E;rechts, links;deaktiviert;deaktiviert
+2304;C1E;rechts, links;deaktiviert;deaktiviert
+2305;C1E;rechts, links;deaktiviert;deaktiviert
+2306;C1E;rechts, links;deaktiviert;deaktiviert
+2307;C1E;rechts, links;deaktiviert;deaktiviert
+2308;C1E;rechts, links;deaktiviert;deaktiviert
+2309;C1E;rechts, links;deaktiviert;deaktiviert
+2310;C1E;rechts, links;deaktiviert;deaktiviert
+2311;C1E;rechts, links;deaktiviert;deaktiviert
+2312;C1E;rechts, links;deaktiviert;deaktiviert
+2313;C1E;rechts, links;deaktiviert;deaktiviert
+2314;C1E;rechts, links;deaktiviert;deaktiviert
+2315;C1E;rechts, links;deaktiviert;deaktiviert
+2316;C1E;rechts, links;deaktiviert;deaktiviert
+2317;C1E;rechts, links;deaktiviert;deaktiviert
+2318;C1E;rechts, links;deaktiviert;deaktiviert
+2319;C1E;rechts, links;deaktiviert;deaktiviert
+2320;C1E;rechts, links;deaktiviert;deaktiviert
+2321;C1E;rechts, links;deaktiviert;deaktiviert
+2322;C1E;rechts, links;deaktiviert;deaktiviert
+2323;C1E;rechts, links;deaktiviert;deaktiviert
+2324;C1E;rechts, links;deaktiviert;deaktiviert
+2325;C1E;rechts, links;deaktiviert;deaktiviert
+2326;C1E;rechts, links;deaktiviert;aktiviert
+2327;C1E;rechts, links;deaktiviert;aktiviert
+2328;C1E;rechts, links;deaktiviert;aktiviert
+2329;C1E;rechts, links;deaktiviert;aktiviert
+2330;C1E;rechts, links;deaktiviert;aktiviert
+2331;C1E;rechts, links;deaktiviert;aktiviert
+2332;C1E;rechts, links;deaktiviert;aktiviert
+2333;C1E;rechts, links;deaktiviert;aktiviert
+2334;C1E;rechts, links;deaktiviert;aktiviert
+2335;C1E;rechts, links;deaktiviert;aktiviert
+2336;C1E;rechts, links;deaktiviert;aktiviert
+2337;C1E;rechts, links;deaktiviert;aktiviert
+2338;C1E;rechts, links;deaktiviert;aktiviert
+2339;C1E;rechts, links;deaktiviert;aktiviert
+2340;C1E;rechts, links;deaktiviert;aktiviert
+2341;C1E;rechts, links;deaktiviert;aktiviert
+2342;C1E;rechts, links;deaktiviert;aktiviert
+2343;C1E;rechts, links;deaktiviert;aktiviert
+2344;C1E;rechts, links;deaktiviert;aktiviert
+2345;C1E;rechts, links;deaktiviert;aktiviert
+2346;C1E;rechts, links;deaktiviert;aktiviert
+2347;C1E;rechts, links;deaktiviert;aktiviert
+2348;C1E;rechts, links;deaktiviert;aktiviert
+2349;C1E;rechts, links;deaktiviert;aktiviert
+2350;C1E;rechts, links;deaktiviert;aktiviert
+2351;C1E;links, rechts;deaktiviert;aktiviert
+2352;C1E;links, rechts;deaktiviert;aktiviert
+2353;C1E;links, rechts;deaktiviert;aktiviert
+2354;C1E;links, rechts;deaktiviert;aktiviert
+2355;C1E;links, rechts;deaktiviert;aktiviert
+2356;C1E;links, rechts;deaktiviert;aktiviert
+2357;C1E;links, rechts;deaktiviert;aktiviert
+2358;C1E;links, rechts;deaktiviert;aktiviert
+2359;C1E;links, rechts;deaktiviert;aktiviert
+2360;C1E;links, rechts;deaktiviert;aktiviert
+2361;C1E;links, rechts;deaktiviert;aktiviert
+2362;C1E;links, rechts;deaktiviert;aktiviert
+2363;C1E;links, rechts;deaktiviert;aktiviert
+2364;C1E;links, rechts;deaktiviert;aktiviert
+2365;C1E;links, rechts;deaktiviert;aktiviert
+2366;C1E;links, rechts;deaktiviert;aktiviert
+2367;C1E;links, rechts;deaktiviert;aktiviert
+2368;C1E;links, rechts;deaktiviert;aktiviert
+2369;C1E;links, rechts;deaktiviert;aktiviert
+2370;C1E;links, rechts;deaktiviert;aktiviert
+2371;C1E;links, rechts;deaktiviert;aktiviert
+2372;C1E;links, rechts;deaktiviert;aktiviert
+2373;C1E;links, rechts;deaktiviert;aktiviert
+2374;C1E;links, rechts;deaktiviert;aktiviert
+2375;C1E;links, rechts;deaktiviert;aktiviert
+2376;C1E;links, rechts;deaktiviert;deaktiviert
+2377;C1E;links, rechts;deaktiviert;deaktiviert
+2378;C1E;links, rechts;deaktiviert;deaktiviert
+2379;C1E;links, rechts;deaktiviert;deaktiviert
+2380;C1E;links, rechts;deaktiviert;deaktiviert
+2381;C1E;links, rechts;deaktiviert;deaktiviert
+2382;C1E;links, rechts;deaktiviert;deaktiviert
+2383;C1E;links, rechts;deaktiviert;deaktiviert
+2384;C1E;links, rechts;deaktiviert;deaktiviert
+2385;C1E;links, rechts;deaktiviert;deaktiviert
+2386;C1E;links, rechts;deaktiviert;deaktiviert
+2387;C1E;links, rechts;deaktiviert;deaktiviert
+2388;C1E;links, rechts;deaktiviert;deaktiviert
+2389;C1E;links, rechts;deaktiviert;deaktiviert
+2390;C1E;links, rechts;deaktiviert;deaktiviert
+2391;C1E;links, rechts;deaktiviert;deaktiviert
+2392;C1E;links, rechts;deaktiviert;deaktiviert
+2393;C1E;links, rechts;deaktiviert;deaktiviert
+2394;C1E;links, rechts;deaktiviert;deaktiviert
+2395;C1E;links, rechts;deaktiviert;deaktiviert
+2396;C1E;links, rechts;deaktiviert;deaktiviert
+2397;C1E;links, rechts;deaktiviert;deaktiviert
+2398;C1E;links, rechts;deaktiviert;deaktiviert
+2399;C1E;links, rechts;deaktiviert;deaktiviert
+2400;C1E;links, rechts;deaktiviert;deaktiviert
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
